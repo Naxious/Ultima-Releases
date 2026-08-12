@@ -1,5 +1,4 @@
-# Cryptographic signatures cover exact bytes; never normalize these files.
+# Cryptographic hashes and signatures cover exact bytes; never normalize release objects.
 channels/**/release.json -text
 channels/**/release.json.sig -text
-releases/**/release.json -text
-releases/**/release.json.sig -text
+releases/** -text
