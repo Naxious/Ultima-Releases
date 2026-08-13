@@ -1,0 +1,2892 @@
+﻿{
+    "schemaVersion":  1,
+    "channel":  "staging",
+    "dataVersion":  "7.0.113.0",
+    "publishedAt":  "2026-08-13T01:48:19.9829468+00:00",
+    "files":  [
+                  {
+                      "path":  "anim.idx",
+                      "size":  1785720,
+                      "sha256":  "64adf0ba0fb47019ec5d0a233819605c8fb15a156bc5c19db790c13a22adfbed",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b21194de5ce6d408d04aaae059f99aa34c5ab2a8536bced06b78757cc71fbb83.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim.mul",
+                      "size":  194950053,
+                      "sha256":  "2d890d6b79dc9f05398f192ef07c3aabc4cf42b680ea2dc966a0a270da683d9a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-54e606472334dc416b26cfe2e16c461c51fedc7c258fad28481f31d0ffdc6b72.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Anim1.def",
+                      "size":  92,
+                      "sha256":  "40348b160303bf1accf2b2fa795741bff516e818c5688d6550f0a6078b2b2236",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-22c9a326fb76c25ba06c1e6b550c429134ebab855aefb5c96ab2e60a652fdff5.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Anim1024.bin",
+                      "size":  4082540,
+                      "sha256":  "90ba1811e8ff3d26f3b3795119cd8a52adf10c8b32a956ef12a17177233890c0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-08b7af8d6f505d240340633af87cb08e235f1be0add12ccae24e263a4795298f.bin",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Anim2.def",
+                      "size":  2779,
+                      "sha256":  "e47d04fabc7446a8866fb9369bda2b18bc7fddab3d87e49e39c1527b7b7d6774",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5a2a0ac73493a7fc5f2ac8c4df7f372043879082ec06488a68be2056416847ec.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim2.idx",
+                      "size":  779100,
+                      "sha256":  "4ccc46f740eb609361181cd0c1af108e0876f366e011c4de05de890ae8e368d7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-65c05bfccd745df2ff87ff213b81ab9532603aaa8bf32ef90dd4eea358d8ce70.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim2.mul",
+                      "size":  212120796,
+                      "sha256":  "ff19f79463dcbaa861b3c3a225fc7f2b74b6fbb12f8d4a7728c65274eacc5707",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d0c96645d18db944a0914dee85bfef3ba7b4ca7331308c85c976654f20f3bd5d.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Anim256.bin",
+                      "size":  4082540,
+                      "sha256":  "2b831b3a0a1da392790f83c9a504f20828d2276e694951ecd1d6a08316644f84",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-33673bc5fa9bcece1b37ad435690f70af6b7f54bd48544c9bdb79713e8e79221.bin",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim3.idx",
+                      "size":  1558200,
+                      "sha256":  "cef4e518adc385ded3cd6bef93edf3981c883b098c6123fbed9b82ac99a95249",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f4e9581ebc58c7265ff2dafd6f053ee75bd56598723137e683daa89c4db568cb.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim3.mul",
+                      "size":  148748958,
+                      "sha256":  "b44ec5b4237ea2f9947b7896402e9fae23412afd0dbdf8a4464271849b1c9e39",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c33d18fc9f4176fd71df8833b8b9973e47f09ead32bbae592ed4244d47b5aaac.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim4.idx",
+                      "size":  1016400,
+                      "sha256":  "7ebf2fbb3d0fc3bc901c6d20175b2fbcc8e84b30e370e43c222df2d0c94c7d58",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-50f4be67bd2858a51874e212e8cf8ce1f9d7d1fdcdbe50324a94b4ccea699c4a.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim4.mul",
+                      "size":  102667178,
+                      "sha256":  "97803b7fa973076e46f77a7591af073e43a454f7cb12efe8799ad3941295bfb1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-79de09ab6ca3ff34e6f04d2efc43d8d885acf6d496dce11d92cff16858d024f8.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim5.idx",
+                      "size":  951300,
+                      "sha256":  "81baa1623188c969e4b2db5df6ad3385e72ebbc0b18feb62eee87b84a2085db9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2b4740ae3f3e0af73e99f9baf03008218893daaf177967c4a7b69db249169527.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim5.mul",
+                      "size":  99973041,
+                      "sha256":  "82904b8d295445182a494abc513c4021fb805b0ae25021fc7247a3bdd6606aae",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b4a9268a2ce463b27f59c8e035da8cb11cd981aed67dd7918c6333ec563b6295.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim6.idx",
+                      "size":  949200,
+                      "sha256":  "95d7f8a09aace7f1da7e489ed27058e9b988de8aad630351f266e24670f8374b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9eb34dc974ef069613951217f4f8f53f6fafac344c962e416f56b60d530d2ae9.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "anim6.mul",
+                      "size":  48762346,
+                      "sha256":  "918976721e944c73109cc50b6ee4e35adcbc46428bbbe5edd402a184c22cec1d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5cb673cb93cbabc977da08550a448b8ad69a91b924b4ca2052cd7ba722316524.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "AnimationFrame1.uop",
+                      "size":  107079799,
+                      "sha256":  "ba971ad5da751657e5652f38bec1652cbc4b6d49c4b6bae6c8639b58095d7b5d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-976e9451dc7edc45978d36f52f0a9474a28a0a62e0df702613dd62dbb4395365.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "AnimationFrame2.uop",
+                      "size":  118082090,
+                      "sha256":  "3abb58eaa9b46bdd783acba14f8840b9f49b2cfa25b5fccf606de350c13ecec0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-efc382d4324b9fff013fb5dc852d3f5dd577adadd695a5f86156f83353a76e6a.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "AnimationFrame3.uop",
+                      "size":  263971192,
+                      "sha256":  "154781f61b64553df54796554845a8cfcf0f9c608fe9adc7b3c08451be9b93f5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5552c5de8f0f140df7c6f8bb69bc2df415e06ce5b43baf3afb4ba73c8d3d740e.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "AnimationFrame4.uop",
+                      "size":  115069605,
+                      "sha256":  "479a3f48092838b6336587a18d2819d67986cf46fcd8b97901e8a05f61515ddc",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-58510e190998b1f39a5f60b83d14530176131dde1ac4d4ca7619d61470753fe5.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "AnimationFrame6.uop",
+                      "size":  23596117,
+                      "sha256":  "d6475b662bb1ec7b8334f51562207434486ef95c1791628fb2b69d1359132ac6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9e19f17b97b63c5928545afadcfa398d4563bbe4ad7b2f2f1b34048c56e45f59.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "AnimationSequence.uop",
+                      "size":  119581,
+                      "sha256":  "b1f96cb745198431160a8ed8a9a68cc9596a14b577d1af5aae93a20b70c73e20",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-abfa2285a92a8be229aa56074c4b39e83fe9bf2b2938472e15b8504d70674f80.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "animdata.mul",
+                      "size":  4486748,
+                      "sha256":  "5ad1a0acb59f84eb9ae4764bce0447475fd24579d1c63777576f2d2a79f5f502",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-428cffdce8c5683e4675738760cd2ae456d6b138b87860486befe4a0028cb98b.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "animinfo.mul",
+                      "size":  4000,
+                      "sha256":  "c6ab4c1d615a638221fd1f81e5d31db34820a1cfb8ef18c1c5b4e1c3554c434a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9d902f500ef4ea1ffe6665aef38ab25092d843682f31487dec446ba3eafaba8e.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Antx1024.bin",
+                      "size":  28660,
+                      "sha256":  "0a6eb18fb060797aad59e6efede43a6cc3f3e47257cf9de1312197aee7bf8885",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a1ef3c7a0b4ce18f3382ab3940f670bbc1238f722be623f95e5d1b511d1be86c.bin",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Antx256.bin",
+                      "size":  377120,
+                      "sha256":  "a44083be4b67f2a7df3a33950ded089008fdc17985370dfd1fabf47f13d4f397",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7d63709d5b5e6bd0f8cdf7276d7ef247c5634972d95b50124ebded5997936cd3.bin",
+                      "required":  true
+                  },
+                  {
+                      "path":  "art.def",
+                      "size":  11266,
+                      "sha256":  "9cd4dc579cb66ee26e10c3713332a607e061c047c0781958eca0d678886faa48",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4b53c919a68ef70f5d5155a35bc11600b91a7513e3c694d8f2f72589311a4cc8.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "artLegacyMUL.uop",
+                      "size":  156335066,
+                      "sha256":  "6b3082463d8d917b5514021edb90a3ac7c08a6eeccf9994505428e8db130214a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ee6ed3ca35a5077480da8706781b8edac3082afc239c9768dd80f9883413774a.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Arttable.cfg",
+                      "size":  2874,
+                      "sha256":  "0ae58cbaa93c4715d43499c322af55e6f7fc32517369ea73c9cc7a21477669ef",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8e02f190c7c0443da66f5ad9352a33be95d8864c490c39fc22fb90ed5df35c53.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Blueprints.tbp",
+                      "size":  94993,
+                      "sha256":  "916eb661152b25c6a0eb52b838eb3340ade9f02d849e46f49c011ee297cb9c36",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8e4595cbbece758244d43cce01ef5d1126cb4a722cd3a90e0764a9c697c3a29a.tbp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Body.def",
+                      "size":  4043,
+                      "sha256":  "2fbd408fcc96d1c0b382c4fd5c4efc798e2e5093e59a14ed6be9146b4a81cdab",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-38a30f425e7e24539075edc2b583df13a57c0a522ae57cf49c3604e6f5fda5ad.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Bodyconv.def",
+                      "size":  34845,
+                      "sha256":  "7ab9630d313287bdecb5de9487fdc2288b410685fb21c085fa82810c0a5c64cd",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-648d825d4c58561f87e9e65feccb330e40d6e6af838fb8a79c217722777ae59c.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Chat.cht",
+                      "size":  3124,
+                      "sha256":  "4ee6acf74d591db4d4ed1f2518cfed6825ad08565c2a2653630015617a68d51c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a6e7e55e416513a0e88fcc7dbb47d78a584fdb10f93a8edd54c23a5906c6a069.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Chat.deu",
+                      "size":  4826,
+                      "sha256":  "ac1a1fc3ef3afced52103d30b8349a53e957edfb58db4738926e4e4dfe38d291",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-890a59722457e69d372f3af18ba6dc35164d1ab2a8fcc0e5637dbca40ad795ef.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Chat.enu",
+                      "size":  4240,
+                      "sha256":  "efe99ac3846002bb20058b37a18d2ced3923ce67b213015b803c0ccb4f362f06",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5d2074cdad0ae3d9f964a01760a7e2c0b1820d278a6fce7790cc103e0476c289.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Chat.esp",
+                      "size":  4428,
+                      "sha256":  "a89d64fee41a096986baeb0b73e64f062709be2cfc8983aea8ff027430ee9f66",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-61d447615536450cc311e19dea1a021866b924ddd3d6a2b145325be239d0d891.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Chat.fra",
+                      "size":  4456,
+                      "sha256":  "b1e32e96bdfc67c49d2be1ab9b1364a29e0586546cffd935d44d56c9f0102af6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1deaf12fcea0c705162bad78d53513ec14e87894a9f32f997ff4586669567bed.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Chat.jpn",
+                      "size":  3624,
+                      "sha256":  "17fe02fecf8b0087ffd066f62bcb4b69480f5c6ad881674aaa2ca625c689be2a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e31eb8ce1f64edf0dfda76590ce77a6e2caa4e907f899415c831ab7bdd76c270.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Chat.kor",
+                      "size":  4440,
+                      "sha256":  "4acba31217e51cb0130695e634a19dfb7c46f3187b0f829a4dd646f603c91225",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-82adcbc9c5869987d8877f646a1f84e435ffc76d73904a7353b05955b8b87261.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.chs",
+                      "size":  46760,
+                      "sha256":  "4e1124e1aaaea05d37f9918954c5e8b3826f8b1e04afea8ce6459d9c07a66838",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-92102891412494a8e36faca051923f04f450324e129f5185f359ced9440a9159.chs",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.cht",
+                      "size":  1999404,
+                      "sha256":  "d5ed3e0e16188f51ef2bd5d3feec4a585998fdc49e8ab49ff6154bf64ccfd817",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5d78af7fc0b082d70d186bfbee5c267def444e06778e10ae9526ed28befa108e.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.deu",
+                      "size":  722864,
+                      "sha256":  "0f32f731b41b3999b1e74fd75c06d7dc390d463a6f4e1381dea0206426362556",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-da3d79f53e7093af90f708a69c8c029737d70767564eeeee2203580d64e85199.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.enu",
+                      "size":  5019476,
+                      "sha256":  "bb9d183a39d17c378b3d34650e67bf656038d852f7fe4af7713a3888ae78c39e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cc6b604d56bbefaa698dda6ff3d972ab70eeeb0ca26716a657fc69258ebfcaf5.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.esp",
+                      "size":  694606,
+                      "sha256":  "9cb3e15185a1c50ce25415d2cdc827194ed56f72ca7ca433f4a6de9f31e29f2e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-711218a1d23766639b18269357df04564a31edd022bf1e6c7b02293858237cd4.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.fra",
+                      "size":  739140,
+                      "sha256":  "5d1c42383026bd4ce634933fd37eb86b3458564dd928410d0743d95e408eef82",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d3a14b4e52061dfc7f9b1ef0c46dd77cb907252971473081d86964cac3016bcf.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.jpn",
+                      "size":  5350171,
+                      "sha256":  "a42ff13dead195dc56fcfbb156c7c76b7a1c79c89b0f3190c697287c5c310623",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8cd44990b89d9861124fcb10b595b70c6a7d67620e4a74c821ea4da966264e16.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Cliloc.kor",
+                      "size":  5119219,
+                      "sha256":  "da6f931c23e213cc659571ad139e1117d885b2c225e584683f11b839f43efdb8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-315494ba6500e04382bb8c1f072cdd4140974b4fdd1b4bc2a9fd801be133335c.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Corpse.def",
+                      "size":  3769,
+                      "sha256":  "9bc572c3643acbcd1e299e6def4297c57da586624e373a45da88f72654b7c02a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-44a3071427e8ad643aa6264c29a7598a83ff0bc5a5aa4d7dda442fca6236aed4.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Credits.dat",
+                      "size":  13358,
+                      "sha256":  "c7e70e6a1fb652790b2809de3508fae146c7ab9f1a481e5e5f8e9ae547000497",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-102235c473afd2e7de15d8e872c752e1b172bc2ee9a718c42168c0047214e498.dat",
+                      "required":  true
+                  },
+                  {
+                      "path":  "doors.txt",
+                      "size":  2437,
+                      "sha256":  "eaef95839e2bf7b75e7e82891996eaba982e402345b1507f524c01e18a702334",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2ac3883f80cee871525146bac755ad6ffda0304e01365b0d3cdfd1f335bee585.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Equipconv.def",
+                      "size":  8017,
+                      "sha256":  "ee650d81d88205745958cc6b6adf0c1f656f294dd0e97d58716e95142a2243ff",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5001619dc679174a47e9e29e4814935acaf0590d3339f71c27623b6bbd0dce36.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "facet00.mul",
+                      "size":  12216710,
+                      "sha256":  "14c496f799aeae6cf2366e7583a2fe052b10a2d5372a75c3e7b32fad860bc5f0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-99e6e18b9045aa14d93cac5abfbed6630fe96a341a42c04fe2735da9e242d024.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "facet01.mul",
+                      "size":  12214226,
+                      "sha256":  "89f5eb34350b671978decd8d399eb07fc2bc5033c90548825534be81405f1c7e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bfe38bb30f17f84b7656098c5c870837d170957e73337c2695f0401247cd76f2.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "facet02.mul",
+                      "size":  2391218,
+                      "sha256":  "69a9af0750ad884a1c0893556cd4ed4aba3208ae43e40b8a8641bd42e8b059d6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7fdc839ba8f547a8b1c13fd70bf4302e1e24f830683e011622a91e62394e98ba.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "facet03.mul",
+                      "size":  1540203,
+                      "sha256":  "c5e0f80d316eb6616c4865b853581a613b666da1f15c2fa43bb0f95165c58b15",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-31c35bb6a60e805b90e1a59c65d3e11b7932f3149ef6219ddba7bf3a15af874d.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "facet04.mul",
+                      "size":  823137,
+                      "sha256":  "09609bb4459519fc58d75b78246a606aa59e13c2957f136a1faca986b53ebc7b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-05a8a9753394193081c5aca8d5de6c753e31f7b706800ac94b576251992fc5e3.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "facet05.mul",
+                      "size":  1850459,
+                      "sha256":  "e659d00439940b482704c30153f6f47cf1347b42ec60bfbcec61b62831590515",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5b88f3a6c8c464c6bac669227027aa4e4e023a9b481fe4b4ad520507b0114713.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "floors.txt",
+                      "size":  5700,
+                      "sha256":  "4ce9866766583f947365120ba7bd2cde304b4add6668bf4cf9667e27d94c6f1b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d0a07f5a0a946c95ff49d760610b3e7b7716e42f2d56ad2425fe3c933ebd291c.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "fonts.mul",
+                      "size":  884909,
+                      "sha256":  "793b73a293b490c54c15618edd66a84670449e17ce778093c6fe056f8a2298bc",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c088ae82c4151619ebafceca6cdb08f3fd4e12a98ea163a29d6a9312851d574e.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "gamegen.txt",
+                      "size":  11,
+                      "sha256":  "04573bda88f391b42f3035828bcb00331e26652da5952b8d4dee1d0c2cb216eb",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a11380348310db6f964259f7fbe6e55fb981a5eae45df6e1469aaaf08a7f1a10.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gesture.cht",
+                      "size":  804,
+                      "sha256":  "7cacd609b109bf5a55d748609329a78b2d707575b1610aedca24d6ca4ad72a49",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-db9f82fb6076127da8645b99c09b7e6b6e62e7e89bce12147e2483dcea5fe1cf.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gesture.deu",
+                      "size":  664,
+                      "sha256":  "b7027862c8f2b314d0e7a174c118d73e683fa1ffaac7b9f302dfb8f47caaa014",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a5fae66f9334cabae695d0a4eda045e3d06e3ca52c6c3a3caad60f506049d1b9.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gesture.enu",
+                      "size":  586,
+                      "sha256":  "8c6e3dc6c44d1d42135c3cd286b90406b861490fe868fd49f313fc10fecb9135",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-20e6b78a428dc5975938fe287480a7b7666fbcf5b825d61f6ebe6951053f8f1d.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gesture.esp",
+                      "size":  670,
+                      "sha256":  "2fb15679db2e0917e0e310d9891fc872b90ba6a0898ac1530e7efb5c5de7f5b2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-98b670afb5bfcac5c03a58d667e3d6ba19b4a18ae5e8200c70e1bd345e6f6aae.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gesture.fra",
+                      "size":  670,
+                      "sha256":  "462c19701043139290e5c12c936dc933c4e0d86520993410b9dc57fd11ba8522",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-daae0c000d4f4ceeb52cf4ac4a27c4dc074aad1284bbdb5f3877c3d27810ac78.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gesture.jpn",
+                      "size":  834,
+                      "sha256":  "5b514cbf74f376c5a8b5fefc309513efca97ecd8a20a251ab080b5054728b6b6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-44c9b0a67dd8f91cc1a716bfc8597ee06eb6efe9468892bf56047977e4a6f817.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gesture.kor",
+                      "size":  808,
+                      "sha256":  "d7318c1736139f77ca6db88a5d700ead751b1e0f1c8845d8f902c1efaa84f10e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2435d7a36160e1dc08c0684dc7511be373eb9f36f7c85e061cb5b9b4b6e76b70.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_0000.cht",
+                      "size":  312,
+                      "sha256":  "98bdfdc2bee01cae32bec5fc8fcb85a116e2dffeae866978e5a0d5b30d7f98e9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5de76eaed2bf56b728fdd015ef9184981aed16faeb48fd794667f281c44fd8d5.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_0000.deu",
+                      "size":  306,
+                      "sha256":  "0077e043a26bb9f950aca97ead75172cd41be2d99f4ff2b2a4ac04ce246440a1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-22b15f214eb4eaa0dcbde5c4721454c7da2820fd4cebb7f387a172022949c272.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_0000.enu",
+                      "size":  124,
+                      "sha256":  "3d932fec53f6f0815344a61a2306fb9961d847f23e19b13292d5c18c3d976c50",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5829614787ba60e507c067d525d84e1792941634446b15794ccc536a547b627e.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_0000.esp",
+                      "size":  348,
+                      "sha256":  "ba9944e48a413434c082041cbf3aea57db88d1283995baaba04d650984badb94",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-280c04573a58c7ff4e62863f3acdbd0a37cc7f1dcd5e1a16c560fce66d5ef274.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_0000.fra",
+                      "size":  282,
+                      "sha256":  "cea158069d15c6f522f71127e1ef3d60bb0ee280405b92c5f53c09478d38a39b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5d761b40df88586d1145612903499c77e777c546273e91f14e76045a52021bab.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_0000.jpn",
+                      "size":  278,
+                      "sha256":  "039117ba1f1396a748fba59f00400fc2b61345a5f649ffd4ea3589cadfcc4637",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-557b3bd35864357b33f7f43b0ba3a3820048c25bc675ecd47c81f9dd56485657.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_0000.kor",
+                      "size":  178,
+                      "sha256":  "a28fad418e02f68c17b1f2107f1e675d84061019139d32d26a9d42f785685196",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a49850fb3ac2b1f85e406d0e778da3887714ae54f36143feb63c295817f52d5c.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_1010.cht",
+                      "size":  1332,
+                      "sha256":  "9a6ab9da709cadded73ae8c57d179d2d849b17f9c145bcab91f75eae56b88373",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-85b53b889a735503e62107267bcd7402fa05d79fb2f4ba48c5a3c83f7251fe01.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_1010.deu",
+                      "size":  1444,
+                      "sha256":  "d20d9ab630d3531d6bd763a79532870e844b40f90f0362bee73ccc74cf6dcbd3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c9aac52654b51ab59e1c7159d79991530d8b748c640be54247072ec745e88074.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_1010.enu",
+                      "size":  372,
+                      "sha256":  "5eb5ee615617061c10c73f5bd80aff295045d194ae7cabb944dbb2a566aac113",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-876617fc5077585d64ee3cf022c81dea1f58fcce98e960f3e8b02ffa45465991.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_1010.esp",
+                      "size":  372,
+                      "sha256":  "836bb0b23c5892299868b8ce00547e84098df1f1a16c1c14def6c3a6e561da39",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3ede5e20c4adece95e6c3d9608471eabba5fbdb9ca8fafac187f1b93cc5a23a3.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_1010.fra",
+                      "size":  2234,
+                      "sha256":  "6c73e7d75e1fa17d85ed0f34ab197522d747dd23ac9e7dc8075e5cd711c11186",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bafe0a1bb8258844d710e4ef656e58478486fc8bb4063ea2cb51720c3e5c004c.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_1010.jpn",
+                      "size":  2290,
+                      "sha256":  "5e09ea4bf901eefd4c5b34c43982b6a5c0aac4b14f91251ff815d5525f8f5078",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-375b6c3afd8b468d959773f50ed0a494d12ee1975da3cf1b7cec0b375360f01d.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_1010.kor",
+                      "size":  674,
+                      "sha256":  "5de8df0f331d5d4c35ae2f5ef4d0995b806c667304c3a4f8e72ea1ccd6842bce",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-94484ca540353f128f3b9ca2ca5c2a61cd242612bd211c34c508b3ab90d8fc67.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2000.cht",
+                      "size":  1150,
+                      "sha256":  "1cdaab075b111e616dc1ff0e29c020244d862e9b559c6a568b75e6ae2f13df31",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e38484563b70d236a50dd353676e71ab830fc2c882c4022d4f518b0fed5855bb.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2000.deu",
+                      "size":  1414,
+                      "sha256":  "9389e3962fc38a47b11696e9e23c1c115792e871c42d4f7840aa7e86614fb012",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-803c974d4f9f0901861e85653db02d9498ca5584da6cc442070daffbec88f43b.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2000.enu",
+                      "size":  302,
+                      "sha256":  "d4675d37a604d10d1c14819391fa12c288dfa7ce2245a56c8f564b6218dce70a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9c0555aa7ff5ff2855bb1b0ad9253d3e05b6ab9dcc407d12bd1eef78f76922ab.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2000.esp",
+                      "size":  1610,
+                      "sha256":  "ff33d47a3144534106cfe6343a2b477cf94d3b855c350a57e314beae26c3b7af",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-fc2e5959e97623aed03e729a4fea0602718ca9cc8c9512a6e76c19c0af535808.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2000.fra",
+                      "size":  1586,
+                      "sha256":  "77315f5e306dddacc638b10f98c497d6073b89154a605f79428220163afab7ca",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7daa2ab118cb6b1f48f21785a7729d180b67548622990901d24a327f0b4db34e.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2000.jpn",
+                      "size":  1832,
+                      "sha256":  "9f50ada086c93e03771c2f7f07f4daaa6c652f917d5c946adda93b1f26b22405",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d272fccd9ed8b3891d0d4eb24bdd2736ac2219d60dfd37097429c77e6e08c104.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2000.kor",
+                      "size":  534,
+                      "sha256":  "d19698b70bd1248fca46e0947769f4caebfbe80a171994e244ff96e61d7bfc28",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-35c1eb4d93c1d69eba55cce7d5d7e769da349e30cb7e89d1daee77e5dabeaaaf.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2310.cht",
+                      "size":  132,
+                      "sha256":  "862715da365337b398f1cab4e436b86f105215c812f0c77c3283e599e903c19d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-869552346f7bfc9746a444697c520471ab77bf1c70dbfca1d5039055bc18d19a.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2310.deu",
+                      "size":  112,
+                      "sha256":  "d725a768a6695c216d1513b24f09230ef24b82be58f2f26da40620116010fcd0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5e22c2dc8c5b88ee5682d02057a618dead0766dfc2a4df2f99a5a2c4b7827375.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2310.enu",
+                      "size":  84,
+                      "sha256":  "0ed5f886bf7298da6a96ceabc4dd8f507aa5bc4258714d9bbeb8857534fd323e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1d9bf10642bcfa3886e2955fa8cda7b45b4c000de0986fee50473672f9604b05.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2310.esp",
+                      "size":  128,
+                      "sha256":  "4e413e9938bd97ecb4f2635a395d335fb10fb5cd48286ae9197c75df48f22d6b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7a0d6b050af45d6ddaffde91276db8a0917e8a6b83a5f594212d6b08f0deb348.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2310.fra",
+                      "size":  126,
+                      "sha256":  "33b0b85331815088539c75c368d3afc557cb48ccbdc727d33dce42801d645a4e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c946d7c1c468d0c3e0c3cf113c0a3a3405b602e110da36704293c9e6781eb30b.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2310.jpn",
+                      "size":  126,
+                      "sha256":  "7b7e0c9551a10ff7e5315199877ba9766a9c8e86876fd9774f51fdf7ea723119",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d6d677f8be0f216f9e98563d0ad572d147dea2da00c1264e0d2c578c8bd3b21c.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2310.kor",
+                      "size":  98,
+                      "sha256":  "75fc69561802e1140485ca51e7887519285568b8948db376dd2e9705b680e2d2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5e54e43b2d10e88d50add346806e58c99245ca44d9c977fa37a48a2677e32956.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2400.cht",
+                      "size":  520,
+                      "sha256":  "1c9b5068a1b0b113dd698e8323e0dfae96d79d1a746a9e3a6cf3ad89d8fb10b0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-89011bb256e1b796dd46cf7e550ca109414d2413a507498309c5ea4cc188db94.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2400.deu",
+                      "size":  474,
+                      "sha256":  "bcb119c265ca9494a33d6f7c73b235a0d4fa5329af990cade671ead8e56d5e86",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-732052266c9bb33cd466f6be57c4dab8be800e5dc6d493b90e7f0f0ef1aee2e3.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2400.enu",
+                      "size":  198,
+                      "sha256":  "81eedcab77725a542ec81bc15589d2bc9084a4485eb5d4dd572cc009744beb8b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c5e08d641a75fffd575fcab6063bb2ae4cf5178a4173f6e489647fda66b6bab9.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2400.esp",
+                      "size":  1024,
+                      "sha256":  "e16840405df2b143ae4266e943db51dd51ca9d40d8a6824df0867707a5385ae2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-96a506eba4e25eb774d9809b0e064311bfc22a8db8fabe5fda31666bb4ba7730.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2400.fra",
+                      "size":  996,
+                      "sha256":  "97efb0246df445945fef8129054d18a02e275389982288f0d481a6677b3cc904",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-de3c3d43e3017fb3bcb63d49376b529d8286cc5a6aac2c18fcd501d2ff989c43.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2400.jpn",
+                      "size":  1042,
+                      "sha256":  "f4d86c0d09dc87d097c61ba4d03142be0a13821aeedddc12c33e2f1a86c189ec",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-81a625e5d7e8a345bd61d8e29063a9710c3315b1bfbc482f7ac69c0bc4955b6c.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_2400.kor",
+                      "size":  328,
+                      "sha256":  "6b1b57b43c2f3e4038798beb769bad729242512c58fb29533b0f417e99bb91e2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-299f2fa7ce775555215e6afb6256e05b7595097fc4f331d5023a314cf6d38722.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_4000.cht",
+                      "size":  3548,
+                      "sha256":  "441b48a424d3abc8e21983afd6a7955d62c632ff354a34e0e2836dc264606a11",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c24394d36c49c30faede7d7eb6e090f7ee0b61673d2a02d26b44562bec34bc77.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_4000.deu",
+                      "size":  774,
+                      "sha256":  "3a9296afb70da9d07f4d08c12caa7e0ba4a579b9806b6b5dde5b1b529c8832b0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7edbd95c45a9b9b4f91db5c62a9af295a0cbaec1855c7ea41910c606433ee66c.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_4000.enu",
+                      "size":  654,
+                      "sha256":  "ef22e955f8c503241adfc78690abde626905d3155c4ca5a4bd83a3c908d622f5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-fd7fec932ea43373505d7316877f314d91e14a73d88312164c9f557c8d44cc68.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_4000.esp",
+                      "size":  736,
+                      "sha256":  "60fec828cc85ae1d8372981c68dab65388d4d8a02de13137f22041f2b09bf2de",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-839810cd2ce80493ab19aedd30765e4385215810e46e60c9bcca914b59f8eea7.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_4000.fra",
+                      "size":  690,
+                      "sha256":  "80022ff40dac06ae2a4811d4c3ba988ca1c6206a57c5232ed3a044f30d1b89b6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-34c5a2a9b219aa1fbe50ac93dd73fb380db598f4c846d3896321bb8b3a56001c.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_4000.jpn",
+                      "size":  654,
+                      "sha256":  "416be4cc0508837eb5ad96ef160c7679ede0bb67bcdf5bfdc8885777c33c6bf9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-fdeb4886f0812d416af9031f46f91e1bb60e8bc63b5d1c1ac1739c822aaca9c3.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_4000.kor",
+                      "size":  804,
+                      "sha256":  "4a1e95f4ad7571bdb53139dccca073f8c96a9a6948dda99bb72f8b7522598f64",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ddeb4e92f526fdad3cc2e6da30e487c777c58237e699d71a0cb864d7468e6ec4.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5000.cht",
+                      "size":  568,
+                      "sha256":  "f1d16116a5b17f795a8faea33c11e97fcedfff74b56dcecaefc6e58c57927404",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c9adc60dfb5fe1c43e29194e5289ff0067c7278bf368558bf9efde81792d5902.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5000.deu",
+                      "size":  450,
+                      "sha256":  "8ea720f388eee5c36ab55c48456b6f907d5dc0190e3dd42661efabceaa25ac7a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3f76bdac35fcb786ae1a04410f7367640bbfeddf631d11c008ad7e1cda58fb69.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5000.enu",
+                      "size":  276,
+                      "sha256":  "0c4f5ed30d1f9c2c0962d5a2aecf25b4970e499636d88a299fafc1a1df557300",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-393b1d8e6c6ac3bd99b3c818df8d957c9f8f76d777ae0b782a06a8311a35f205.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5000.esp",
+                      "size":  536,
+                      "sha256":  "04d8c47ca01ab1e19d62f014ffaf4379fed4297f2d2f0df44771cd2c0efe2789",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-595e57d0584d4b244f2d69eda1619f04b88636be587ba0aa7f095e34ce0bfc00.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5000.fra",
+                      "size":  572,
+                      "sha256":  "4b78ed64fb8469089202edaac847fb1dade045878ffb92a565553867ae3a2c56",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b7574efd211b6b29cd8c10b65e4d42857760f4eca5ec61c4a9c79509275fc603.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5000.jpn",
+                      "size":  680,
+                      "sha256":  "84b9a1d19b821518227c76981d8223349a3aa290b381d66419468c67653a26ec",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ac0ef46b4a827e6478fc5852cf4de8583ca2d554afccacb1cc0b68ee10a41163.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5000.kor",
+                      "size":  484,
+                      "sha256":  "f9352a3c8d96b3d4be8b5e50dea0e873d5bdd9bcd2222b141a957ddafbc1dd62",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-56483f42c953f3a5d7d44591275359b4b0010c31308c1028f9539918e71c2b35.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5400.cht",
+                      "size":  142,
+                      "sha256":  "e56efd0fc06eb6d674666f8d4ac156c048aa917d666b37ed3dce12d1055fb0a2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ff7dc8f3259e992ec8861f0470ffc6cc60059a2b7be8611599b35bdc569924eb.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5400.deu",
+                      "size":  156,
+                      "sha256":  "af55cec8be09aef5f11a33047d157ce16bd68ba173894f7dc107b1cf690c39d0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c94e485064e8d12dd0ac6971e65925807d165e9acbfeff1113b971a63417ffe4.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5400.enu",
+                      "size":  90,
+                      "sha256":  "67910e859f374bf7a087c743412e5afceb1e4bad264b62323449174c861882dc",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c55922894f89fdcbb54f35fada94ec5d70863d2c0db5e7fa46c92e8b7436602d.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5400.esp",
+                      "size":  146,
+                      "sha256":  "af6c003be05735ddffdabdd5e509c194245cd6aa701a665cac4dcaf2988dfd08",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f53e9d3131b4539c46b17855341cfb8b5a1e03c99423080f66c35d93676f00b3.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5400.fra",
+                      "size":  148,
+                      "sha256":  "74ff428bc90f6930c15e3ae0613f15e8a8958f18ce07f496b48bcdfeb4ce6185",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-815c4bd8dad8c72ce626dce1b9b7a11ae982a9e2b6d0df04759867cb1ee90c22.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5400.jpn",
+                      "size":  156,
+                      "sha256":  "7e2c5bedbc106c241ea9bda2dafe65e999e8878d2a9c37b0a2fbb50bd97aff84",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d1eba0e81d91180338eaceefc40127a9e91bf8df74cfd01487c789a3dbfb3f21.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Gt_5400.kor",
+                      "size":  110,
+                      "sha256":  "6b89c84a8606fa415d9d13844683a1799068a81deea62ff2c3698ad08f147ee5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-49bee073060cf3b6ee23d75ab1d90935d934823064b53c07bec52ea3ff72b709.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "gump.def",
+                      "size":  1369,
+                      "sha256":  "2b2fcaf377614604337d5da3acfe511df435236559ace1e77c24c9c19b466775",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1019280971d077325c7544beb77967bf2b37352104fe5423999bef8e668a6e1b.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "gumpartLegacyMUL.uop",
+                      "size":  81491907,
+                      "sha256":  "3deddac3a710c2828c29cc1cf84b03c6fa7aa23f95613007ab0b26bf5f4f68b2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f9cf33c89b142cf3d812420ba888b2aab589d2d98786fe958ab14a1c9155d8f4.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Helpindx.dat",
+                      "size":  8915,
+                      "sha256":  "827e10160b88c5c087e66de3041d3322fc51fdbb6813ba5aaba443f6d85cd5d3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-662bd8cea0006cb651e84ad1d78ede545bfdcc89a5314c2867eac8b0c7f0cd78.dat",
+                      "required":  true
+                  },
+                  {
+                      "path":  "hues.mul",
+                      "size":  265500,
+                      "sha256":  "37e50418e65af6cf3ac30af70c32238578b321a11b6af90583fca600aeefa268",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e299ffb5a1d6ba21be65c83350b535c28604e9a74c6a35f37a35d27cedb5ec77.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc00.cht",
+                      "size":  8728,
+                      "sha256":  "1e0977493e7280a3d78896709a5c5d0ef090602bc53ed63b93d40e3d97a4d998",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9331b2e16bd69770bb51902dc43d1c1099ea3967dbf7f154af649f81b7b4b13f.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc00.deu",
+                      "size":  11674,
+                      "sha256":  "5cc8dc3ec3f1d02c328d82b8497689ce93333d52606a31f8d5d040ec0b7a1267",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-dcb57ebc9ebf857ca4581ee6ed2a6dcbf84efd00f0bf9cc66e93675ad0d57258.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "intloc00.enu",
+                      "size":  9648,
+                      "sha256":  "bd1037c479e49edcf856b577f252de8cf82d23bd8f6feb9764cede5c24b3a797",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3e457dafeea504605de1d10b4140a4dd83e20c160034275d459b7995dd9fbc1d.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc00.esp",
+                      "size":  10282,
+                      "sha256":  "0e7e5a3ba4c790b2ad9b8f6067db1f4d58f55b56bed8567e82beabe681d52a70",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f49bd051c57d7587af368f57cc74a584c48753caa6e67b237a946c38cdfebd46.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc00.fra",
+                      "size":  11640,
+                      "sha256":  "21e6dbc3f3961d742397d8a9c4727c1d3e3401485f2f9ae368c4f6f0b71181cc",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ffecd9ae588c6007b451da2360c75037e4dc8abe248506a1a1acd5c55953d26c.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc00.jpn",
+                      "size":  11084,
+                      "sha256":  "f66699f53565f559e66629d80ae1def260155f7453996f2444ff75eab4c8fa66",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4764d13fc94be4b823fc9a866afe3690943dd2cde3f3b47a75e12a04976c9a4d.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc00.kor",
+                      "size":  12360,
+                      "sha256":  "654f354950b63e2fa7129d3b5a5be09df2d092b0e559151792f72a294676003b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1639ed0b0511aa55008f94ab66f974215f381c44bd39be67961dad68afb0a12d.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc01.cht",
+                      "size":  468,
+                      "sha256":  "45dcd04907ba418f754047db4ecc5e90d9faefe980014b1206e862b6bb1ef545",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-889b3d3cf3876695ac1e44ad214a864804d45f41cec6a5b25966f1c85df7d65c.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc01.deu",
+                      "size":  588,
+                      "sha256":  "ff6112327af15b3faa842852698cbf722aa9320d3b8e6ee911c1172479966781",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1dcb07925bc019d284f5545730ed53a74dac8928d3f9bc6f3fa7edf4db94af02.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc01.enu",
+                      "size":  464,
+                      "sha256":  "40a15469e8f80a1849a213b31fc70f2e9339328c73e51dc2d4a1a1f9703151f9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-38c5fad5fd8cf1a23830a9961c2bb7487900f6c68274b3b81c6d427ea62e151d.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc01.esp",
+                      "size":  500,
+                      "sha256":  "cfd737f07828e13ccb4fc4f1bfd710633e6a3716b27537a47f0a80d8fa1ea3f7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e7236f5e1f43e157f1e2f8d18abd51b67445209f7250de0d5b675c9413cf455e.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc01.fra",
+                      "size":  506,
+                      "sha256":  "346e4c9e704b1d574c308c92fe290b4480bab94851c9b47546c9ed4c8e2a7a6c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a6e33d82d04d70b84470330cede2f56d038c4897b0d33e7878783ac2dc077c8d.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc01.jpn",
+                      "size":  532,
+                      "sha256":  "a1133fe3320797d120b4a4c2c01f273893c8ac49c7ee24bc711386c685e67d2e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-05211f23b16de1cb918b93b1315f885bc2ce4d1b484beda5de2bd76fc19dccd0.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc01.kor",
+                      "size":  500,
+                      "sha256":  "64aa7e912349e4a3a86e632e52065f4af5a93fcce327f03da37f9129bf86401a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5704c8cdc5e1da893bf714d36d56fb07d774e195327a106711606829598d2d1f.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc02.cht",
+                      "size":  1574,
+                      "sha256":  "6f563e0462a0461241fea4ae0c45262c7d59f9bc2e85706a4de128f7a212d26e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-669d56068bab41443497ae369fe5f887f6675fe9196bb0867d8672471e0ce497.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc02.deu",
+                      "size":  2094,
+                      "sha256":  "20a546e6a552c71b7c5a36bfc6def3cb73df1175c1dd8a79bc352820d1470f7a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2af57713a81605bc30a7f9a23367a0dd2915668ac3d18b84dc972f03a65babeb.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC02.ENU",
+                      "size":  1736,
+                      "sha256":  "a83bbea1c88ba1009c38cfdff8f62c4ebd92a537247e0c6ef297f74ab5b5d06e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3562f39ce0b9c0bd2d2976cce3622ba43ceb8f6581b7ad4596d11222db198abe.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc02.esp",
+                      "size":  1972,
+                      "sha256":  "f6113f57393329efa10e4fec10d8f8e340e0dee11c99ac7c61ec55b3032e4153",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b6aa75524629fcb7f3d875ae720d8d70dc976f797e5056dfd4b8f5e5c44c81d9.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intloc02.fra",
+                      "size":  2058,
+                      "sha256":  "b002201b946b452b5f26e99f2b3510a0a903c75b952c7cfe62a1f31eaf1798f3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b82d75c3cec4867cf017d8344e2edf1e7c3030613c0a56b27b98339d956a0cd7.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC02.JPN",
+                      "size":  3320,
+                      "sha256":  "523a923e03cb85324653c4fe4c6db0cb6600baf4b683f5582bd4c0c4cd6a43e7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ecb6beeafd078c0cc9ba2b9a864ec9d45973ee57908f9a57ce6aec1690203e74.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC02.KOR",
+                      "size":  1614,
+                      "sha256":  "b35cfe0de350ab28fc1ebbf8e4a0daab13ad8a30268357db81d0919a837530fd",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-be9347964f5d2b8a08365a39437797fdc8fb48ebe2f9d5b12e1478ccb67a0abc.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC06.CHT",
+                      "size":  2190,
+                      "sha256":  "bdc9174aaf4b0581fed67d6b3d26cb3d22c61a7e586d577c0071538d55cbb865",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-fff7c34241509b4a6a17b343e35145b82394a577f6979aa7f83b3547fa992587.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC06.ENU",
+                      "size":  2622,
+                      "sha256":  "7003a1bd2cf75b78c38d76210803fe0acd86f74b7294d1806f4f9b9c6bdbc596",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f77c9191ead23f6e7a42a879c343f9a4028d47d22bf445452823550dce490614.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC06.JPN",
+                      "size":  4080,
+                      "sha256":  "b923450ba18a5636e6a4d4fee1421658c8f7917b2b48c3cbadbdc4c7b65b4e1c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-daac4736f5d37655073172ab52cd9139165fec1fe8764b3c258d654db08d050b.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC06.KOR",
+                      "size":  3046,
+                      "sha256":  "e3367c117e562db834d3ddf231cc9e99312427b1aa4177d813de50ecd8f7ce57",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9b106c14f1c8ea01fa682da71033b9461433ade300eaef10cc8baeccdf99ea94.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC10.CHT",
+                      "size":  30724,
+                      "sha256":  "3ffc126f7fdf83146a658449e0be517664c251c98edc0d8fee49a4bb9ff4d244",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9140837da7792505faec34db75c7ce5f6cecb196ac022de1ae815f1b7e7ca71e.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC10.ENU",
+                      "size":  37834,
+                      "sha256":  "78b2d0861866013239e166679412d4ad674750e2fedb6405c8f8a641a565db5d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e19a37b0e8f42d7b0982621205d175ec125a0fcbf95037583263e18c62d9ac54.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC10.JPN",
+                      "size":  39172,
+                      "sha256":  "4250d0fcf533fc75dce3caa1ade25f466f9431d247fb4935af6b744efd0a5e45",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8a0958a39effc5ee04f7ce158ced672a2db2ead7c288c1a7406f765676f78105.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "INTLOC10.KOR",
+                      "size":  41906,
+                      "sha256":  "10aad96a268f987168ab155edcf2594d0ccf9523b3e781bb97d4eb5c3466acbd",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6b6afc617deb44f9df9a7fbacde122e593a358359d494f34bd610dde9db5b885.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "intloc11.enu",
+                      "size":  358,
+                      "sha256":  "3a88378452ab1be9d7b65e5619c6c2615cdafd62a17bc7b05e4dbc822ce023c2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-283687ddf83e7162e92fc0977913011e5a155a3eaa1312e69302bcf2d368cd17.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intrface.def",
+                      "size":  414676,
+                      "sha256":  "60bc39836f4b68a375d01159f1d29aab0d960d46628ab8f63d74b9ede327948b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e2a3710dd37ea2f9da27d0f7057d50eed50789f5d936e5b7f3245201d93356db.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intro.cht",
+                      "size":  1354,
+                      "sha256":  "fb94779ca3755dbd61bca58b4abe670c189710928b4f3c69939569e62df04809",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-76566e384b099dafdef4ac1f0e81e0eb121ad6ff376aa2da95b2652e2be0a441.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intro.deu",
+                      "size":  1982,
+                      "sha256":  "86185ef50939438f6e9facac419ac7516b4e0534fc71ed9abb9b929d8993152c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-72ec7b2e178992073561ae958e9da842d51e37e7d43899eeebf7ca6b14bf5086.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intro.enu",
+                      "size":  1816,
+                      "sha256":  "24798fd2ecc50e18a8d6fd3234a6ec9973f4079fb151a3b1ba2bcfec54cf5c87",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cec42d6a1ce3ca2739b12c970a2487497feeed41ca878e35c76591480b97e346.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intro.esp",
+                      "size":  1894,
+                      "sha256":  "51a4f32e468cb2e666d2989f1bd45f71c9e4a333d8a8556f016740e88a218d26",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2abc140900cdd4225a120f53a10ef5cc12f5c205fd8791139b7257a5974e7755.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intro.fra",
+                      "size":  1950,
+                      "sha256":  "3b55ddb6a9a26a54ec8e8ece74e052f0c815e78f72d5d7e967bfa1e6e3439415",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6cdeb82b74c2f1ebd2d24fa80ff5271696be6987e97550b3beea765f8d92f355.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intro.jpn",
+                      "size":  1636,
+                      "sha256":  "5763a9af0a8ae958c6817fcd5a16664bb4917d69da488ccddc4c6852bc3749cb",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6f7aaae652a938f4ff9ad1c78960831e9af6c5e22bdce6bb8d578184505e11d5.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Intro.kor",
+                      "size":  1990,
+                      "sha256":  "4b36adca0f75acd9d7a2589db6872a4d0b1aa41a03d21be8e0063669e326d21b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-72613118bfa47e0d0d8a162ed86a81e1a1081642120d82e5f022d148e96320ae.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Keynames.txt",
+                      "size":  410,
+                      "sha256":  "8cba8885990796ea6300b09394d5fc4b70ee3660dbafd692e84f396dfc271a07",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b3d8dde3d0ed6ac111d1397091df9fade94bbca2587222fc575c4bb6479d642b.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Langcode.iff",
+                      "size":  4612,
+                      "sha256":  "cae80cbe4ad853af71c031e68e1e408cae59f7806dd07b9590560250457b36c0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d5b013bbd4996bbd2242d0b5ad6df8a80cbd45dbe2d061ec4ccec1529addf958.iff",
+                      "required":  true
+                  },
+                  {
+                      "path":  "light.mul",
+                      "size":  2910700,
+                      "sha256":  "fa766be0fbd6626ac6b98e3cca025a907ecd89b060c8daac01f998cd2db14af8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b0496bf7e60ee1f40e14cf7252ce9eb9360810c1d0b4242305fcadb9ed6e538d.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "lightidx.mul",
+                      "size":  1200,
+                      "sha256":  "3bedae724e5f7fb75e678a5445bacc38e4b1fed082e5d298cb34486bfcfcde75",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8aeb0631b9ba87437650776f83f3a55c3d855b973b4713924695eaf38bf33ffa.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Login.cfg",
+                      "size":  227,
+                      "sha256":  "9114186953d48e5cba3cdba3caf17e8b46eced30520b8e9436069a1764990b51",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0a578c518c32b805d7d2d328184a8b6bc3f1f174155f72aef3e74f194bd87a6d.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Macros.txt",
+                      "size":  1040,
+                      "sha256":  "0e44c97e0bb97c64365c1ab8e1bc5af8d28e93ddfcd1a38b0eee03ff61f82544",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e2cc48c8feca7aa3344026cb78a06556d293ea2a8ea9bc91811b5a35e8fe665b.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "MainMisc.uop",
+                      "size":  117376,
+                      "sha256":  "d5184b0c8668acbad4a1d329d75c3da9f59ed5760c667a7896b5a2ba67022d3c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cad138c5160f645d9a50f9ae07fcc149d4922016b18d033c75c5d5cb9ace2b06.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map0LegacyMUL.uop",
+                      "size":  89965542,
+                      "sha256":  "e155be37042955e757f6b0833dd8a84a9bd6e33816aba00d142aae306e950ee2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-71915f26b50d8774db5bf11c43f40cdf770c5566f63bf6b92d0bf50f69e1c2a8.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map0xLegacyMUL.uop",
+                      "size":  89923808,
+                      "sha256":  "e1e5b11bbc17dc585d1f32592866e806f86718633ff484231d812d6ce1885ad6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9c54de3a07f910c384a3211fb0d9683c9793ea31651d94058465f698460254af.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map1LegacyMUL.uop",
+                      "size":  89965543,
+                      "sha256":  "47f48797f1f3184b47c02c00823c85f95dd63ccd3b20b74f806402d3058f3114",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8aebbeeb2c703eaa71f24fd1b07a73dd694480b675fa16c2e5af6b48777f3a30.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map1xLegacyMUL.uop",
+                      "size":  89965543,
+                      "sha256":  "9293a6fef665cdd7c3e23d397bc3ba44834f08a42623c414c4b8f702610f15a8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-67493949f63707c16af7315ca355b7fa4f17c963c16d15a66fa4f59773d21e9a.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map2LegacyMUL.uop",
+                      "size":  11326368,
+                      "sha256":  "4c5b697abc7ded224c9d08738655736f0df3e543eb1699c6a5e35c3bb6b3b7a9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-91e38078ec18066a705bf17276a60c9f7f0876998a189021e65bc01571f76875.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map2xLegacyMUL.uop",
+                      "size":  11326368,
+                      "sha256":  "c815c9e36fdeb66613f982e06eff629b060592319fd9ab05615eb1f223069ded",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-44a896a44f36e10225d0738fb900e9fb966b3cca634c1e927a77b0b4bb073c88.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map3LegacyMUL.uop",
+                      "size":  16093906,
+                      "sha256":  "b25d1f4222eca13e757c52415f7235aec53c22aaab45d8cc25ef5546980b8fc6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0513c8f2178cdf4c1962afddd2fc4c28682d5dcd4c318bfbe7717b48c8d1ad46.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map4LegacyMUL.uop",
+                      "size":  6456971,
+                      "sha256":  "b923a5a4509023970b956c83553a0338b9494be5fc8f59f58039ff8139d9c813",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f43d4eed3342fb5de2adbc01ad1f59cbd399b3a22a08695a005a94f4cb7c52c8.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map5LegacyMUL.uop",
+                      "size":  16093905,
+                      "sha256":  "2639a23aac8b8f5c5f004d9569fb99df0150410126f742cc7e2e2073eaca3153",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-37fa07b29d117a790a6c6d0220dfc0d6c554ace9e96fd91dfc251f0434891806.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "map5xLegacyMUL.uop",
+                      "size":  16093905,
+                      "sha256":  "83aab02fee1885bff8d66e9c622355a601bae3ba9c2e4ca23743fa66e67d0b1c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-30d1242f82bbf3d99d7e00c9a8021235d85eb49a53b925a08562addada468743.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "metrics.txt",
+                      "size":  502,
+                      "sha256":  "e063c76975e46ccc96a118cd5bfe1e1cc149104e94d69995698bb73cb81ba8b4",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-04573bda88f391b42f3035828bcb00331e26652da5952b8d4dee1d0c2cb216eb.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "misc.txt",
+                      "size":  6818,
+                      "sha256":  "e4d2c6f271234de2c85c1f5c4066c1324b328cdec20f2692f844aac159a05149",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-25bfbc72539e82d3b208ea3a1a2c1fe8af19c05515aabaf2f8403b2eaf6b922b.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "mobtypes.txt",
+                      "size":  44882,
+                      "sha256":  "b99077542d9aa05796f366f65b525201b552f034cda941c1e456600a9305e98e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-47ead789aa245b6e9e2c447144c9fe36ffd4bda2f0a2483f7cbe8d205e9da231.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "multi.idx",
+                      "size":  101760,
+                      "sha256":  "4e28b9631b5e3143b5a77d923f5896246cf114bdad2dd5952e7c22b9899180e0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2051ef48e1451550d46b4743ebc0711caf7d88121a95e1264d1b08b0b6a52df8.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "multi.mul",
+                      "size":  994832,
+                      "sha256":  "2a26f4def2f030ec7f96057fc98a2a59fac1561848f59a3e45f477a5e1f8b7a0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-854a52ce49ed1e663716e56a40a4a8d84110e32434f60d737d8a29c77792d3d9.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "MultiCollection.uop",
+                      "size":  568698,
+                      "sha256":  "03834e00ea1340494a0e40ca06d1e0426f97f8f4b304428828abd649551f4a7d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4b1972088adf030708f0973284f36000ccb4dd2e678c973511619e129fb13fdd.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Multimap.rle",
+                      "size":  320056,
+                      "sha256":  "f5e20a50b9ee8a282f0b6563a0e625b2deed0d1a5f0438115d27455198484ccf",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-89ea283bfafa34d9cff4aaeb9b7f0cb4880ff169921e33a3558aaed99a7042c3.rle",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music.def",
+                      "size":  7,
+                      "sha256":  "bfa505efd4e434104f2079356737ddf40b70c7b19a41aa67eeb89d600b88b921",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9a845240759cabeb42625fdcf42d1abefa134bce4ade1bc954eaefad61e4d33a.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Ambrosia.mp3",
+                      "size":  452648,
+                      "sha256":  "802e7f8f2ff24c8bae5fc6ab39bddfeec63e11f068689efe8c9bb0aabdd035c9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c53203ebaa49796dab14cb510d01e722e6502ecc4cac1bd1424b1dac213b2cb0.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/AnvilStrikeInMinoc.mp3",
+                      "size":  1308212,
+                      "sha256":  "1195cf9291a8bdd9fe86b4471c003977762cd77cb86bc2f6a78f20cb7947bd48",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7651c0bef3251088819b66b22925e03a2b06a006def3b74566260f19d0dcd1fb.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/ASkaranLullaby.mp3",
+                      "size":  2791444,
+                      "sha256":  "b0a873cf09532cb2d8138ef18d70c9cabd6b27f9c373fafd68d663ab01a27ab1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6131c600f88e8c3651c26a6bc7446a7fbbfa912191359d26f656b79af47e612e.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/BattleOnStones.mp3",
+                      "size":  1489505,
+                      "sha256":  "835a50b28ef44691a3bd7e7f365e19af63370c5991e1b3b233116db9d2cb86b8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3f31ee60daa8481af50544cc11fb0059748e508db4d67b59cc937a7f9bb82ed6.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/BlackthornsMarch.mp3",
+                      "size":  1054302,
+                      "sha256":  "82c16544fcf05901710e8577b06b76db55a8acde51b35e1ad121b555405215f1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e3f1b08e3483ffbb76422d7c1089832c339b37000270e3985785803f46e7ed8e.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Boattravel.mp3",
+                      "size":  147538,
+                      "sha256":  "e7fadfb513030d8f547f9f1b42fc41262ade3c44725d9a6b0b5cef77599aa7e2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-efb9b21fdb13aa74ab988a88ccd10bc024434ba22b6469591b9ab77979635af7.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Britain1.mp3",
+                      "size":  317230,
+                      "sha256":  "6a53597943e1fda83a8cb17b561d061dfca8cfe3cb73fdf613068726f75ca225",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-76ff222351faa4a6d4bd620f53e30c946e1e35a5b8f375031389694d870d776c.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Britainpos.mp3",
+                      "size":  431123,
+                      "sha256":  "521d0d2c53788e5368a337fe5893625e57f115a42119fe90a3099a9a5ba41d1f",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d57ae4a8cb1d4bb02b8dc97f7b3a2c0165b653c2a3cbd8518127b26ee09a473a.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Bucsden.mp3",
+                      "size":  475845,
+                      "sha256":  "a031ce8dbfa4646ec55df2003f1047f067e4ef96708b1edeb493a6d5f0d3b7d8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-477e8c5783f02f0bb0d531b0bf16a8e00c98a22c27bc19e689bdc6941f65bfa8.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Castle.mp3",
+                      "size":  1727971,
+                      "sha256":  "20d2fdbcceee77272cfe686589d0e6f94a16dd87dbfd8f7e4738d83ad477a54e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-219aa3882b8db5c655f2da8c9a45c25798be9f34ee41e7346ef95ac2fff52bc9.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Citynightedit.mp3",
+                      "size":  1922611,
+                      "sha256":  "ba28554126145b4678e13d84152077c46cf19fd9e59370fd86b9705b3374d090",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-18cf7d069619390d72d573ae5deeafc8551bb2c3f8e2504c3683d17397b908e4.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/CodexShrine.mp3",
+                      "size":  608131,
+                      "sha256":  "8b5cb17544d85c57e2067e02a3c10f96f7bcd5482950368ced6ad9cea5db815b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f6e271bf5b0ff8908d642d5a1d8578e12b59fad7caf7a4265eff24ad1fec4c50.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Config.txt",
+                      "size":  2031,
+                      "sha256":  "4c61af1f64bab5cc6cf86b8169d0dae95ea32223ab0e9d92d2ccb6aef24af077",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-57d614ee87d803b535f8d5c0b01a7525082217fbde59267c1b0d11d5897e22a3.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/ConversationWithGwenno.mp3",
+                      "size":  848980,
+                      "sha256":  "2e1cabf053e39ee1e0afc6887437fed4e4ca2cf40bdcf74d3b99559e3f5a6927",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c753de388455ab65bc7e38893fb2630349bcb05c70310548df5368a4583e8519.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Cove.mp3",
+                      "size":  469994,
+                      "sha256":  "82a654ad6fef8c259192a21d55aee828cf4cb8c318d88142fd77b598f2c5d19d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cfda6676c4aecbe107e1b3e0c27b2f4c9ea81559b7d32a28a0a051f80aba2406.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Deathtune.mp3",
+                      "size":  164256,
+                      "sha256":  "154c9e7137734e609ead6ad35ca4109f23745a0672739d5e74c0a39a058b062d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-803fbfbcf067f9a913b129ba38442d3920b492fb26184e6689e9af604de556c5.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Docktown.mp3",
+                      "size":  629551,
+                      "sha256":  "02c4b92537512e92226be41c2dd2a854fe7c0d80ec0c5bdfcba788d02f9f9b08",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f17f5df4c676523b9b12fe8a1248f433557c7e0ce035116d357009c82921b658.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Dragonshi.mp3",
+                      "size":  400194,
+                      "sha256":  "825b3e50715e312046e43243964841b9abafe8096d556ae162b0ff5223dcb820",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-67b3ee69394497fbe11b31354b8f9508a94c3422af873a2abd0045a34b30ed0e.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Dragonslo.mp3",
+                      "size":  466859,
+                      "sha256":  "fd5e2034c3ef55229e0dad5e3865cc482e8c6b7d4f89c37043aa3e974929c3e5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-52a66eae6c033797939fca000db43b1634679432808f887f760e72609625bc6d.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/dread_horn_area.mp3",
+                      "size":  4803523,
+                      "sha256":  "ec78d21fad8dc3ec3540e9d6e82bd9c4872e609fecb957f68cd5206d33d8dcfc",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c213c30ebd67142a7fc578d8fb1ed40bb854833f6dc6444bfa470abef0402684.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Dungeon.mp3",
+                      "size":  464351,
+                      "sha256":  "16f294d4e28e3efc887712dca5029b8b1db2c87ce6c8cd5fc71432535d8babba",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-187974054850db58f18d70427531b7f548ce55fa804f9a17598831add44b651e.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/DungeonOutpost.mp3",
+                      "size":  1106463,
+                      "sha256":  "add8a55d8e1390dd9283905098e41b9f0222cce23bf20d2b1edaee206b4a93cc",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bb79c14f6d20bdd009aa6125baa3ccc1f700f576729b6ccb18352da74c091adc.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/DupresNightInTrinsic.mp3",
+                      "size":  1416359,
+                      "sha256":  "5ad087b1f750aa753127b06ba7c49949c3e1e1264b10d2f36be3fd8971e90fb3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-804e699d19caf0c6f8cf48634ac509128b4a990b5c3f506d5c5b341f0f5017b5.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/elf_city_1.mp3",
+                      "size":  12857596,
+                      "sha256":  "230c426261528e39f708fb1edfda9210aca3fdaf6421c8584e12fcc267676b81",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bb4b44906bae86aa457856b960af3af33f0b77a83e7c80cc8eaabad54ac50a18.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/FayaxionAndTheSix.mp3",
+                      "size":  1353142,
+                      "sha256":  "099d21cc90e56df0dc9615417d1944ffd1846fff56decf96b9745047ae3a6bcd",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-21fe7e61c823f93b9c1382fb378271f5ca2bb5a08bde9c213c7c66224ba6c63e.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Festival.mp3",
+                      "size":  2063174,
+                      "sha256":  "088626cece0b5c8d0630c57c155d22018f2c2adc16867152342db2a2ae71066d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b2f24c134b944216924c872dfc1bffafdb80c00338fae8b0b16936a1abdea348.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/FlightOfTheNexus.mp3",
+                      "size":  1213126,
+                      "sha256":  "dc74968450a0a5a7cad31cddb727d4e3d2648ff94d3f0b707ce3ea96916dce4b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c4b329ae4ceb78603c0bf63f2939606aa6ae877592f1f31552b3742b000b71ab.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/GalehavenJaunt.mp3",
+                      "size":  1483232,
+                      "sha256":  "cfcd46b5e47aff5c0d217d5ee4dc9b75571e52c99a7fb53f27d87f057485cf25",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-86edd4d91c83c9a39d57437304c16a30c5e41f67b1e19f08f4b79936709fa297.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/GargoyleQueen.mp3",
+                      "size":  659853,
+                      "sha256":  "b8222586902257a80e83dece49d719331bb3be7cb96f52442f714c3b950bc6f2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a102d28b086bbbb8cf475a79750f5a874859dc3c865f72879c26e16a7edd0ead.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Gargoyles.mp3",
+                      "size":  423809,
+                      "sha256":  "8e41c1d99adb8405ebe4ecacac7612d71414ce5f301191f3b5adfdc5b28cb404",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4bacf3edc57a7163c396e45264a25c7a0088b6c93a79fa218ab72be8b9d50fa2.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/GenericCombat.mp3",
+                      "size":  658286,
+                      "sha256":  "ba1f67786f12e83b87f92cb4315630add3c969356a9a2bf5d815fc014bb29864",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5131f5ecc0ecb516b93b42c811299f684516d31351d8f0c57cc4bb658a839cfa.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/GoodEndGame.mp3",
+                      "size":  1028506,
+                      "sha256":  "60c9a99729dfe3bd2a0ee8046310974b12334e083750266dbdee174b10f07d68",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-45384b95e1dba6b211fd5ddf5563b2f79795ff901560a8018a32ecb2f9764a73.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Goodevil.mp3",
+                      "size":  406255,
+                      "sha256":  "52777b0896956e8a13e74a313e0d42f9e71f937b65322795b09f191385aaa29d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d835581cd0c8f238996d699cbc9116b9e0dbf4ad5a92f0ffe1e93ba2c67a50ce.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/GoodVsEvil.mp3",
+                      "size":  912313,
+                      "sha256":  "486191b9f58781c97c82178f5736a7e282fad90eaefa9251b3f118649d2f97d4",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-fc7a48c13c36df6d3c4369687bf9954d657275260153a8b33917abc009f9d3d6.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/GreatEarthSerpentsTheme.mp3",
+                      "size":  1015748,
+                      "sha256":  "c58fa4b2e02e9004d420557d304405e7751e23689e8f6b37d9e48cf65ef520ab",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2be11830dde3e9683a48550d7d524fcf7023e78c5eb97c1625b930d122d2c9a3.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/grizzle_dungeon.mp3",
+                      "size":  4807702,
+                      "sha256":  "dad8c9c26238a55211c5d67bbedfd3070b2416e18bc505f0dd9bb2906dcbb949",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0ca7e4adffec85448687b3fa7204210eac7c70ee7249aa19c58da94a16ab8ad5.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Holycity.mp3",
+                      "size":  652016,
+                      "sha256":  "3b64d65f5d45a07bc5009f745fbed159f504f64b2d7346d58d0bc9828c9ee3b5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d074fac75d1d7c53e2bab2d3f7f251cc2016ec2f48ff0870c77ef471be7b4977.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Honor.mp3",
+                      "size":  1768073,
+                      "sha256":  "2d26cd086fd4f84e16d2ed8cecac67e9c85538093b3d48f642d262c848f5e853",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c0ea5f9e15160c40602980d567877508912256730e1f9539f3863c90cc0bb2fa.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/HumanLevel.mp3",
+                      "size":  652539,
+                      "sha256":  "6140c3e538d6a7be6f5dacc8c3ed3040f65a69cad8bd166cb0e6b064ae1405a3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7794f5e600a4d9951ccc815e6010d6f2ab356d19a9de4935836794961d27d860.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Humanoids.mp3",
+                      "size":  504475,
+                      "sha256":  "a4a79cb6c3f451116050cb9e2fd8fac3dd04bc9818079eec103a6698712ba468",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8c774a9e6e4265134ebe1190c18ea10d779f211afd0dc047e5ab936ed44b2c88.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/HumanoidsU9.mp3",
+                      "size":  599258,
+                      "sha256":  "93ea4795e2e35959e1984078c0963213b43af5407bcacb0bd6b37da679c451aa",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ccfa4cf9ca5b101bd3232f3eddda1753f79adb1b2a4e0ba60fe934e78fb6558c.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Jhelom.mp3",
+                      "size":  293406,
+                      "sha256":  "9ee43ae09a46a3cd680118a983b178a998912bb04bb88602be07b82ff9b46a2b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-99ebf231f0c8119543a8245d6092396c42e0b4eb383eb4241eab62acc2821d19.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/JhelomToArms.mp3",
+                      "size":  1041240,
+                      "sha256":  "5babecb0d27a020455a9a291b98631d3a61104e4653f71e669df5e4fa8217e31",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4c0f647e4ff6970b10a42423462646a09a15b85072202581fac610b98b363bf2.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Lbc.mp3",
+                      "size":  142732,
+                      "sha256":  "232f40f24a7a600647c6158a766c45937fa764f4c04431b4df76840941c5957e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0691c1d481fdb9af512c942670b7ca82eadc8a0b0a6d695d8870928c2db207d4.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Linelle.mp3",
+                      "size":  288808,
+                      "sha256":  "e630719278e2572e04ce2f72ef970054a042899ed0c66e9ed798087d7fee7bde",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1c1e8c2956c969b29e1b07bfe063ee584d88cb997c5d579e35a638523c9cf316.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/LoginLoop.mp3",
+                      "size":  628506,
+                      "sha256":  "66b651bc472b9b48abe3f87fb5850232e87d33e0a89579a9f5cae40009d41f0b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-18659b951ec0f962b6775fce45165709268ab05935ffc1cc3cc92e2694df0f98.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Medieval.mp3",
+                      "size":  2415077,
+                      "sha256":  "b08f6315447a3c93d58561a3e06e8462e12b2778bb598bafded8cb9a3256a5d3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bdf9e4f2679b7b494601d51447744228dda896f329c9443381924e5e0eb0b2d8.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/melisandes_lair.mp3",
+                      "size":  4803523,
+                      "sha256":  "f3764e035f67defbd16ff9298c8657cb26f86aa6ae778688736966d89b9609e5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7d8128b1db320a03d24248cb999d6bc0f66d55b33de799aca2e5328f4ea42c98.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/MidnightInYew.mp3",
+                      "size":  1364114,
+                      "sha256":  "bfd5a7e93772f5bbac69d3f22e634cb95a717b3e53771f96ab3420bec49d6c9f",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0c8c0cabf4844f4b12fc7134578371924ea3cd3af83b4dd10c526659ddc61bc5.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/MinocNegative.mp3",
+                      "size":  549736,
+                      "sha256":  "bf2eb05a4b24102609fd5559371aec72c304fc5583ec1dde41db55f57b0b84f7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bc0ad4a79e0a1c0b0fb183220520f76749746519411182fc78de00c492984e17.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Minocpos.mp3",
+                      "size":  532061,
+                      "sha256":  "d0bc5ae86b392cbd6f9610fd2bd478fe37205a1d456a5d9101ad39a56ac12969",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7249e62f5b38d45fed0f62c27969acb5da5019cc40c87b1a4f464baed60075b3.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Moonglowpos.mp3",
+                      "size":  482532,
+                      "sha256":  "26609a919db9692eaea4a756efd8f3cf87e5c952b2f95fb80a98732b8ab0f395",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-dfb2c92265bee29ccc7c8e5e958032ee51be2e3391c25b5dac8a1a2b40995876.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/MoonglowSonata.mp3",
+                      "size":  2082481,
+                      "sha256":  "ccd606a6d39b74a8e6dd38ff10b879ee972cde70f74d734c71ae7ff92acc73d6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2ca26d3629048d5198293009a21dc5d8ffdc2d3e7243f5453d825718ea1cc769.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Newmagincia.mp3",
+                      "size":  499878,
+                      "sha256":  "b5fec9730290bd8f590d2f44c7605f2d73b45031a70ba8ad114e9672404f98b6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6aaaea982696c1093513a337185bcf50facec4fb07f00363b7c6d191dd17067b.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/NewMaginciaMarch.mp3",
+                      "size":  1026089,
+                      "sha256":  "f9884efad319b3bee147eff31617e31ea4bf2c8e0e1f95178d71aee0eafcf206",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-864fd085e739d2a936d10e241de03162327d9b849266f9bb1e7c659c4f7e1cb7.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/NorthernForestBattleonStones.mp3",
+                      "size":  1546971,
+                      "sha256":  "fbcc1a32d9e7eac6691ad5f626e3322f252201966e791a5145a48458f670f2d8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-fd270250538909aa52748a1b31b204b840844dd7a162f973cb9c52cd6e4e8700.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Nujelm.mp3",
+                      "size":  434676,
+                      "sha256":  "315dea88c38e8127ce7fb40a2e33deeddcd2b64e1ac0bd233b16463748363aab",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c5fbf9e9e349d7487f96fb9f3f567c087f41f3eb7194e6c6bc742ec54e48a5f6.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/NujelmWaltz.mp3",
+                      "size":  1358889,
+                      "sha256":  "9f97dc153c9cb19a82ac0b9ffbf8e5848053006e5f27d92c2766736c19534bde",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e5d0c3af504fe20174a635224b61ffe059a7209d3bcedbe45179b9a7c99d5f65.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Overlordv2.mp3",
+                      "size":  784926,
+                      "sha256":  "6dc195840db24bdc5ca5951af6a9c4411a663e549cd7a8dc2dfb5178b1376e1f",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-136625c072317b5c89b0143a94c15e02a3e58cb5cf58cf098a1714bae646b895.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/paroxysmus_lair.mp3",
+                      "size":  4806657,
+                      "sha256":  "d71bd900b27130b0a7e1ffe658da0c6b3734fd649c6dbb3286172ac6ca714741",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b71cb47385ec4b1c0bf7bc46a330a83987ef4d8a050b96ff9c70f3933e59bf2c.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Paws.mp3",
+                      "size":  914393,
+                      "sha256":  "9d58ed5c95a8814e29dc1cf8c1b4807d4fc20dd3ab7145328f1cc02fa475164e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-29c5c1eec5f7d6ce7a2a7322193c48e2d0d5f836daf265edcb3dbe7eb8fd28a0.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/PrimevalLich.mp3",
+                      "size":  658286,
+                      "sha256":  "cad6659832a436920bcc129f4d5c34a5a8f7f91532f5a027888d070296a58f4c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-18a208d8ed3a342dd96fbb0e478c244d3fa95c96d0157b76cb8e402e603d0f4b.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Pubtune.mp3",
+                      "size":  388910,
+                      "sha256":  "0de07f79c308873fba74649191eff16d3913ce4df870ca5a1cfd015a78805393",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a1790006c666a7d1a87a4247c176f2e491e74c6e350969363bf68b15eed0b950.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/QueenPalace.mp3",
+                      "size":  606041,
+                      "sha256":  "0551f1323850286b9e52a1b95cd6f20f0a29c766515b3b41e09408ef8895a6cb",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-eeb55d6589ddf29c584bc59453b7c1cc701408a8d22e377690fee3d893a14395.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/RoyalCity.mp3",
+                      "size":  666645,
+                      "sha256":  "2a148f9e330e89fb2c2c5f58112ad4c8fa57a6c6826b17b262b2d7630ad46b8e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8ff870551c8919aa9f2b82c0e9312a789c267c90d4f22f3e94a28dbe6928147b.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Scarabreapos.mp3",
+                      "size":  385357,
+                      "sha256":  "3dfc255dc2a06f4040cbd9666a5805e962a4ed13e9f19410cbcd4834e8ca5e4b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0bf502f24ea91331bbd934a64d04513727927fc0abbdc5569d55fa6ba31434e7.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/SelimsBar.mp3",
+                      "size":  1752804,
+                      "sha256":  "853ae91e214857a7800cd1001c300c636ea28bb09852a127069a52fc2705f3ac",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b3766f93543119fe7021d459d40adca260268407fbc8465269c916c85f285167.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/SherrysSong.mp3",
+                      "size":  1529730,
+                      "sha256":  "b469b2a86f8bb2637f0ff913b64ea4c062afb88ede8b36056c90996413f0a309",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c5fced1582d6ec38a2a868e4e93169ec1fbd4fc8446bb6e8ce422d330c215caf.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/SlasherVeil.mp3",
+                      "size":  656196,
+                      "sha256":  "cb9a31505e5223a113fac33ec21bd4590b19b9acf18d5414da71a9e3c0208684",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a3a9c457a7a38f8a5a2596d318b9b01265a9db3aa9229ac0f8fd1e17f979e37f.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/StarlightInBritain.mp3",
+                      "size":  1345828,
+                      "sha256":  "8ede2a9b7cdb06a9e32816b263de47ca38c8f54c0e280dad18634b6f8c106b9c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bccfbae95258a7aa20581951686a0bec5807782dd6cdc31487b34112ae155b75.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Stones.mp3",
+                      "size":  1861798,
+                      "sha256":  "bf7ccd1f8c766f5623163dd9733d70994f0a2dac45a8b45cc02d4208318e39b1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-44621ccbc84bc756f7af75b58585d1c5ee6f2d85a59607ed0a3b62bbb78c335f.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Stones1.mp3",
+                      "size":  1087528,
+                      "sha256":  "2773da94d629fd836dec0f1c1bbf0ac7b1fe14bd1f9bc7e0afdd9baa8c99b53f",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-169484625bbbeb80e560f6b3ecd308eeeb9fdd49198e5515ff46c3e2df1ca6c1.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/StygianAbyss.mp3",
+                      "size":  622237,
+                      "sha256":  "2cec30d8b851a2f5c466ffb194ca252af71f92d47eb34de11cb9a4d9e5a834e3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f3f7b05b0122d76254acaec0d4f234cf30af0b04161591e47683b9047c5027f6.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/StygianDragon.mp3",
+                      "size":  644702,
+                      "sha256":  "9003f3f7aa1e3cac9889c74228910682ab112afadc529aa1734d1aadb9e77998",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-21d24355332cca9d80d7787fddfc1dff126ba63ef3d95c79761fa29c0f3e8171.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Taiko.mp3",
+                      "size":  1819584,
+                      "sha256":  "6c85ace46bc7523cdf2d4d86624129f0a1ef6e00fdf50ab25720b816438fe86b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-140d91db323d7436576b94936ed4d688cfd5533ae49ddcd43d0034e63bc85a10.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Tavern1.mp3",
+                      "size":  180975,
+                      "sha256":  "43c2781b94274bec137fc138f5a0abc3f3ca0407c9fe4fcb166c66f94f7fca08",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c50359421aa99ca283bfbbe16f459be37f814dd27ff1428dd7c1cb003eeb5e3a.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Tavern2.mp3",
+                      "size":  147120,
+                      "sha256":  "004fd9d6461333efff5958c5be4ba23eaa373cfb54165a99a31b6cd943c526bf",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ed2304cb588883191b294c8b853da4b719993f30c93bed1139ebc842c241e376.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Tavern3.mp3",
+                      "size":  147747,
+                      "sha256":  "b4f70d574899790fbbad5638b5eb4d540a291eb60e2d00cbbfcd461a9e8a24a7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7d8301e488489de4d420289ad56e577c7cf533fbe1bf84d1ef89dd953d991d79.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/TheVesperMist.mp3",
+                      "size":  1242906,
+                      "sha256":  "9366e543424b5a509209c15cccddb88f583f151d7f5893aa69c48c068f61c627",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7b451cf54a0fbcac20882fce8ee35dd1fe23578b2a9be02bcadd88a7a2f02e8c.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/TheWanderer.mp3",
+                      "size":  2003824,
+                      "sha256":  "9e6aa817958e04a2e99c991062b7b9dfa5bd498f246b7389dabba3f4836a1b4e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2089616da139a87af27fcaf10d6d29eaea798049e6f512c8f93355fc6f86f234.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/TokunoDungeon.mp3",
+                      "size":  711365,
+                      "sha256":  "661db702715514792030ceeb069bf2021f553e674a764697d10920ef56dd5788",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d9f6f2c6833bc84e8cb199a258846eccbbed0622fc74d756e9f4360749c82d92.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Townlife.mp3",
+                      "size":  2783002,
+                      "sha256":  "589bbaacb3be43a6d430a58ac5bcfde5f0b17ea007c4a6ec695905ced0a6d17b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-eca541d07ed95a1b8433903d70f3a0e24f83932aa58166a929f0da1dc9a3ed12.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Trinsicpos.mp3",
+                      "size":  490474,
+                      "sha256":  "4b5fc0cafc70ca0fd87db08da48c83baab1b46ed7b32a554953239ec4f80ecea",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ed6a4fcf8b9a25d7982fdf530d3ae2210d11c8e1cb6810c8561881bb6d95b77d.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Turfin.mp3",
+                      "size":  385566,
+                      "sha256":  "13af1df7a81745561e3d749d2ff7e77291c86805b58c384e34819f79b8244d25",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-714f182c2c920548b12d37902c1fa3ca005213f38c76dad078b3b2083884ad7d.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/UltimaVIISerpentIsleCombat.mp3",
+                      "size":  2282586,
+                      "sha256":  "d60207713636fb64113b7c76f4ee037fa2adc5067d2560ffc88a324694343971",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-44c0f59fd5d939adae71ad8ed58888cbb47b32f1f3a686974d4f7e19713ded84.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Valoriapos.mp3",
+                      "size":  448887,
+                      "sha256":  "73e669fc0f11f165bc9505d1e736918fb02db94a77902e07cde518edbcad4b9b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b934b07bc0b5d5f658ef15a96bec8c1f88af030f9e88b4ee08328c3c946ad495.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/ValoriaShips.mp3",
+                      "size":  946167,
+                      "sha256":  "36d5841d1b8fc2ec3653fda15c617ec8d4aeabfe93749678a4abe151dd0a08de",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4a68dd237e6db3fc031313db4af0e1b4557d0a65a76fc74c61a6681e847ce86c.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Vesper1.mp3",
+                      "size":  295705,
+                      "sha256":  "a967b19828f9ecd1e16786751c1836d130b1f2bbaf2b5b6f4357ed583ad1f9e4",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b9d4ac015456320a98a585a0c2c689f898752587ba048f05aca2122bab05244e.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Victory.mp3",
+                      "size":  141896,
+                      "sha256":  "8764c409d8fa966c8f800271c283e961f557ab5ab9dfb0e0c600ad88255b204c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-103989d4ea325a80702176144b2b8846ef182e2e3eb2027145ae7e1db7d90098.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Void.mp3",
+                      "size":  645224,
+                      "sha256":  "20d34f03f1ad8d6e8a97a817acb6d11012a4f62b7e5450d020845cc4871ce87d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c091fdf95ee7a7efc8c0bc832546a5fd9972bb066a3a229bd1603cbd863cfb05.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Walking.mp3",
+                      "size":  2751215,
+                      "sha256":  "0ca3c37b00e7c4214015848318d6e5cbcc5c066722c70ca3bdc21b666ab68529",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f659d6f9f43c7c12b01cc5ea5bded14830104d18cf88c8bf6ca0d8badcc16625.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Yew1.mp3",
+                      "size":  282539,
+                      "sha256":  "dc499d079eebac2448c37c4eaed349a2981d3640395f1339c3f616d5118dafb1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0a94b3deea81011d9ddc1d1fcce202ccc4e62bcacf068b3ad8e71a1ac6796ae8.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Yewpos.mp3",
+                      "size":  480652,
+                      "sha256":  "5429ad047cc89865bb67f05fd9132084713b914537d7d7034d15019638de0681",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-976d1a90c0d940bdb90bf6029a0f7a0b3d8742f5a4110dbf49b27c49ffc903b3.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Digital/Zento.mp3",
+                      "size":  1187421,
+                      "sha256":  "a604419bc70168ecaad464289ffa7232ab45beca30a227034ba75ff141c5a3d6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7bdabf169367052913ceb12515a1d007772a126f4bcb4db48cbdfc6ba3f59415.mp3",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Music/Intro.bik",
+                      "size":  30779652,
+                      "sha256":  "240c88c723ec30ca0fc1d131145a2fb6c265f1698139ace8fe9c14d01ec520c4",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-55da5ffaf5a02a6decc1a900b859622939958b3f4bccd6c913b4bbf355895da1.bik",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Obscene.lst",
+                      "size":  61,
+                      "sha256":  "597ef436ebfccdf3ff339ee7c56893662c7bdcaca08d5933e1c9e0631cce5225",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-798c45cbb569cdde6bb4044b44b7fc99ec543f974a7a7034f02922963f2f1c20.lst",
+                      "required":  true
+                  },
+                  {
+                      "path":  "options.cht",
+                      "size":  6804,
+                      "sha256":  "46ccba790689d30b1f26e9a659c51934209698fb182c236c60ace9c177af2c71",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a9e6d2622ec5f642febd743029a845095d0854b6aace693f383d4cff99888d79.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "options.deu",
+                      "size":  6556,
+                      "sha256":  "838f8d887826a1e22549740dc3a631326b6ce3dbce2ef5786caeff4fa5ab9d1a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5826238ccad85f8a3286b5b6d8f63bd63e571580def526a3da944293f1b2e586.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "options.enu",
+                      "size":  5912,
+                      "sha256":  "b5257684a513504b994305bf265129c47bafddc08fc8c0761da810bbffd0d861",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b524db75129d796ce8d4ce99bd61655f940e478667afb91cd93d6b18a33f3bca.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "options.esp",
+                      "size":  6156,
+                      "sha256":  "587fe596ad2bdd36f3b4db2fb93fc79d7f778ac1a97834c2f54626164c19ee27",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ce720b610acf30c05390cfc9b1bfc388c4424efde79c4ea7978ee63990299f13.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "options.fra",
+                      "size":  5992,
+                      "sha256":  "47a76504540af680d07c447b87cfd12a4a155f3314758a71ab4273d9def65eb0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bed62bddbe52b67e4017124bbf841eca653ff7faa5966e87afbcc65585f32fa1.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "options.JPN",
+                      "size":  9142,
+                      "sha256":  "c7ba7e7781e15c90dc196b572e9e94918b3ee00bd5ddc723755016bbcc11de3c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-66e0f15902f3ecd038e93cf72e29b9ba6c7f52b53a290bbd0e793aa0673203b1.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "options.kor",
+                      "size":  8890,
+                      "sha256":  "68a9a7961b3af464a195297925fbf4a77a39527240b43ee049ea2fb76bd85b85",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7d3c1ae24342b6b386e903f1cae2c50ac11ef2aa9173c2dbb78e6d9134db0bd9.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "OPTNUOTD.CHT",
+                      "size":  6724,
+                      "sha256":  "24f5436ee2a7931acaf6b55d6e3df3fadff23ff64ae5f121bd91879cd20cf56e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c6d1a1b26ebe8ea3c5d06ebc2794c753084675dacb1246e36c3954ed5edffa44.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "OPTNUOTD.DEU",
+                      "size":  5450,
+                      "sha256":  "8c664942e71c502c1f50e89e8dfce17e030a8c07e5846ce703d6959f4d1caf1d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3b4124668dd24d16423cc88ca517581f59e8338b2a52c02093bcc1aaca5dd475.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "OPTNUOTD.ENU",
+                      "size":  4982,
+                      "sha256":  "ce66ef0e0712263eea481792ea27de7e2cfd412e8016042e30dd95df584b53f4",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7d9fc304c1813416e884b9e2ea4c4cac36d4316b1c4b759a44e59eeb54e3748b.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "OPTNUOTD.ESP",
+                      "size":  5572,
+                      "sha256":  "2c03556e7c21ff3b62dd0955fe1e867d79ce4a9ab3ecb9820976c5a0238b0f57",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-dae44449ac1ee96ebdc29a4e90c5a5176c29acf05a48f83e076041f9af041315.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "OPTNUOTD.FRA",
+                      "size":  5480,
+                      "sha256":  "c5c8cd40c2684b8e760f4c97de0174a2b8694a07e47b5a41ad7eee6866f7b2c6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0dce4cf1f5aa895636254a9e80a704a0cae75e3766d43eaf3a5fb8e0deeda080.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "OPTNUOTD.JPN",
+                      "size":  6184,
+                      "sha256":  "7f16c9b324dde5d8273c7b03acdccdc35fde15a4b9dc3ba68f9f13d98dcc5e41",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bc83eb2b6eaea39ab40eec94c1c920581a236a44f72618f07417ce0ca28766c3.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "OPTNUOTD.KOR",
+                      "size":  6758,
+                      "sha256":  "9ab7f6d0dd795e7e5b23c90c64848203ce7a98d479032c928791097cf8ed140c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-85a2217aaecd2b31f153f22748ea5f79de918c5ee98fa0c7a9b14908d0a1cd34.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "optuotd.JPN",
+                      "size":  6184,
+                      "sha256":  "7f16c9b324dde5d8273c7b03acdccdc35fde15a4b9dc3ba68f9f13d98dcc5e41",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e1c10c94861b157551160455739bb0829ba7c9f11e2aa849129a8dc2ff788472.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "palette.mul",
+                      "size":  768,
+                      "sha256":  "7f9b3cfaf03c1ee37d4566f9a8ed5860a308ede22ab7444b876a736f67a1ed5d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-611131dcd1af6e53d106eb85b4d5c71c102677aa8e39e67c2e1e03a215d6d934.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Prof.txt",
+                      "size":  2149,
+                      "sha256":  "bec323eefa57bd47391a48bc57d5d5b451c7b269fa4dcbcf987ab51532432c81",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0f2ec5e6440441cb247f9b9e4fcc71e107ab6f0a60d73396c3fa5fa772acb277.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Professn.cht",
+                      "size":  6388,
+                      "sha256":  "754d8f643ff26fbcf336fa1c00efdc4aae92f9562ce207f8fd0f77c64327ebd1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cd992f32de1797c337b6a02d927cc21f2d0750906f56c3831a87a964bb780ecb.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Professn.deu",
+                      "size":  12598,
+                      "sha256":  "1c2e794fddd4d0bef1bfdf8b0e2f2715d73ca5f3897b1fb5cb81b8267024c098",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-70aee40ec6fff6028bd65715275f18cfa068ead19f5dd344d6926afc9427ab4e.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Professn.enu",
+                      "size":  11256,
+                      "sha256":  "3da9be1912b7029b4ee4ad23af4addc5a717a8f1ee542c64aacf1b5d69bbb9bd",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-426a291181e9225e6bedda05215f3155b330749ae320a4a491071fd155bba086.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Professn.esp",
+                      "size":  11882,
+                      "sha256":  "a1192f1e60ce04c6e29619bfec27757e188df621d9e9527c4a8c629555ec67d3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-587bdaf0d79fa729cc8f7da7ccc0460caf7377aa600b547cbb1efce99fed37dc.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Professn.fra",
+                      "size":  13350,
+                      "sha256":  "bd67c87c99b67eacc6cdd59dc96bf0ee5c8ac3d92735e8c94d2e5e6211fc0280",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d958a25023bfbe92ceae04df2baf36b950c1cff2dcb5ed3e23fe390be20d1501.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Professn.jpn",
+                      "size":  9578,
+                      "sha256":  "bae8ea1e8ed93ea27f73e437e020243af68730675cc6331feb899a95952c8936",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ca5181daeab275311547923eafd2ad8d0e5a244d2c1df8df32372102fc3099fd.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Professn.kor",
+                      "size":  10726,
+                      "sha256":  "e6cc1ab21ac466f6594837e7be897f3f7d58470e059cb3abb65d5a93f0880323",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1c8e533097762ed5a0797ce184d785d1aed4c50dbe3e92942fc8234985b547f1.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "radarcol.mul",
+                      "size":  163768,
+                      "sha256":  "dec1bbf53c106201b44feb72208a180016a90ed859e3b3f49c03b56a41ff94da",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c2ad2f468798960ea9db622be01bd4358c029cd64247dbb899ae79195c947716.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "roof.txt",
+                      "size":  4164,
+                      "sha256":  "622c19a7d76b1d573acc157ff097135c128a984967bffd5b9c4315abc987bd51",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6c3c161cd5cb0dce713c1dffa03fe7b3738a76cdb8b872469dc4e25ae600d589.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "sjis2uni.mul",
+                      "size":  131072,
+                      "sha256":  "62948227429ebbae79cfe287d79eaf8dbf753ccd065553726ceca6caf2102d4d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f4e4e7a2106727090adec62a8b774508fc540a581720e882f4480b911d72e8ff.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL16.CHT",
+                      "size":  626,
+                      "sha256":  "fbcadadc375972b04c34560b42ea3b2767eaf4616b8354d996b3ab0b26b7bb5d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-867de11e01965ce9b8e8c6c753bb4fdb4385acab607a2b347b49464407e04e45.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL16.ENU",
+                      "size":  648,
+                      "sha256":  "3ba94adace989f3e97f8e387f1fc4a2e4ee3a88eff5b37459cf239cc4a6daa69",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-463a12d3731907cd11a47e0087a8ba35d3418fdad3877a7b2697abbf3e8173f3.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL16.JPN",
+                      "size":  612,
+                      "sha256":  "5476df00c327b9366fd188582041ffccac9eccd6d781050ed8ed2275dd3f20b1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d335ddd2b231dd38aa55a0fc681d1e3231612ab5ddbf6fa709dcbfc390bd5da1.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL16.KOR",
+                      "size":  706,
+                      "sha256":  "38f21e680aff6087e91872d0ed2216f1da725f570d07e7a62a8c1c02a84e16a4",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8c4c60915632b62be27a5a08ba6a2977579c5f19c9fa054945ba4c6d300cde7b.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL30.CHT",
+                      "size":  370,
+                      "sha256":  "01458c5ed0be9da736e0bd1c9a71bdebf638b41b96582ccdecdaeaececadaf95",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d680de4fac297c075a11781c172f888d3cfb2b982458c0f53743ad12f1b4484a.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL30.ENU",
+                      "size":  422,
+                      "sha256":  "326aac0752a118362b452a40829c2f5db057d640e055f9db48bbee785ae3685b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-73f432c7d6b0d5af7b2213f2402206145b661cd77f41d0aae91b5cb68bfddc2e.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL30.JPN",
+                      "size":  376,
+                      "sha256":  "9dd6ce89ea7ac5c002b9227925990106724fdd90088c3a4f3757966876c0deea",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9bb987de0eef80ef026ab7ef6b95f6843f0fa2231b379068d874900df575fb1e.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILL30.KOR",
+                      "size":  448,
+                      "sha256":  "069af9da54a92f90dc4f645afaeafb37d0d1e7585869c5e6974976fe1480c393",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-80005a73082aff8de32d184ec5ee659f82ee8b27b704896bcb160e9d507bb6f7.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "skillgrp.mul",
+                      "size":  338,
+                      "sha256":  "d04243ac937c86ea85fc7b13b5edbbad2471c23fcdd4892c1515a5024c892912",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-20bc3c2f08b3e0d66cc1132cc06ebea8272b89c2d68015cbb62171cddbeea49f.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Skills.idx",
+                      "size":  3072,
+                      "sha256":  "68df415c256c9bc518401184c880c3f0fb2a92a7ffe143f66e2d38c224d74c90",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1c5533e6fd6343ce833155761b51659e0b2341b5a0f75441a79e9e1b6bac591f.idx",
+                      "required":  true
+                  },
+                  {
+                      "path":  "skills.mul",
+                      "size":  704,
+                      "sha256":  "49ba0db15a4278ac26a93398ad851ba3e2a1fe133ada90fd4fc59536aa235be6",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bd398ad6e2859c2eb591673ae0c9773a5f00858cb950cdce24e3d7697e737501.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Skilname.cht",
+                      "size":  526,
+                      "sha256":  "fa658ea5d88fa55e1fe492afd1d921d0df38ce0137d74121f5f16c460c8786f9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bc0d16dab81e610e48ab25c0b1c1afda4d7026e44b1515de5e2b834164977c28.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Skilname.deu",
+                      "size":  698,
+                      "sha256":  "bf7ad307373b8bfbf0ee2639668906572349acbc9b78d8a5ad2873e06b233307",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-8fbfdf02069c4c1b02476822ce6382c50b939c6fead3b277460cbd88a74cd1c4.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILNAME.ENU",
+                      "size":  654,
+                      "sha256":  "ba6f552f4fc1cfbd12dccf410b61593552634bf560ad62042f8b2a18ba131fe7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-66164d73a55d38ee5406de9e8a968a1fe81a20c4c86e816d35af87ddaee52dda.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Skilname.esp",
+                      "size":  628,
+                      "sha256":  "3cb9a71c29a3522e89f6a60e263fbd85527338672a90ed667de37dd9cf170a6c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2a17a68d11050ec4c28b25f85a2eb84790392014091ad3b010f9fe9097021cea.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Skilname.fra",
+                      "size":  586,
+                      "sha256":  "8bec97f8049b76534ed3d91250e070c2b592f3b55ed730b6d68f62cc457f769e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7ef5436064f828e189eef56e53ed6c8c38c4e51516601ee3104b89cf2abc866d.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILNAME.JPN",
+                      "size":  448,
+                      "sha256":  "2947df6849eb8b49edaa87174ccf582d03dcadcca90523765d0c9c983c8762b7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-80201f3447275bfdd092a324b2afe7fc753f2e4cfa330073a2bc6999994312ed.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "SKILNAME.KOR",
+                      "size":  492,
+                      "sha256":  "8169b293134365dcc3700fd846a010f9430dfc1ba059cd92d6e4e62cce6342c1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-972cdca417196192c83303916b1dd3b4fa255d716cd0f78c4b00c5c00b3ca587.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Sound.def",
+                      "size":  10249,
+                      "sha256":  "ab80e0243dea9d28fa0cb780c538bc144c614ee275370bbaecff95d8b183461e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4775b9434b25e547a1c53ecce09e0d34321aeaa5f23362546316512abf8d3e78.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "soundLegacyMUL.uop",
+                      "size":  168385870,
+                      "sha256":  "961954c25a76e8ea8864c7495e51f74f60dd899e351e139429b6bae12a49c22a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-54f41016f7aa293c7b1e76d023236e35b5a37e3a7748e733e00f2fc42c00cb4d.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "speech.mul",
+                      "size":  119749,
+                      "sha256":  "ba75c8c9296e4d6219f416b86e04af8df56d3f515904b6dec64681453a297db3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cb250df1e26e23dcda676ad100f31751b074775a78c2cb6d820e671c5df79c09.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadif0.mul",
+                      "size":  146790,
+                      "sha256":  "5ebe135be96f2b9ea9e56ad80ac405e6414e13a14c879e820d9231dc015a1496",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4f6a13c5fd96e7fe11f78e1758f1e5834419cfefc9ea7e50436822b08f0fb99f.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadif1.mul",
+                      "size":  1088997,
+                      "sha256":  "25fba69d2f136932a197e6b6a902700b2d0fce1960750818070d96492f7783c9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0dbf8650af1ae12b7f611b356d11ccaf1ae0d362785b5ea330f97472be48ecb6.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadif2.mul",
+                      "size":  193438,
+                      "sha256":  "c2eb6c27c34311d2d0f68cb4e2d34a5825baa8d3ef0b5a9fd3455c8cccca1bd5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-47710e98f7e0f78df1a798e741f62d720aca20984b6dacf1caf72658fbb9e804.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadifi0.mul",
+                      "size":  21684,
+                      "sha256":  "1bd60b5bb85027435c6b74ff7213e2e368bbe914dfc418f23529bbb556c1eee3",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-17f65bef99ce2541b7b78681e907b95eb232215eec8b91ca45ac0e1b0fb7e919.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadifi1.mul",
+                      "size":  131172,
+                      "sha256":  "cd93719f41db33c1c985ac62012bc001efa0287d1c0f8329434cd082ff635b1e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ab302f8c3222eda36ef1ad53904795d998453e7a033ed247d980c2bed6a0683c.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadifi2.mul",
+                      "size":  3216,
+                      "sha256":  "ce272438c5ab36ad0e22c27373d206bdfaa5147c0d72ca7d269941878e2cb9e1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c1299aa15b8b2c1df81dccde96e6907796676e9b904f7a4049ecd46d0003214c.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadifl0.mul",
+                      "size":  7228,
+                      "sha256":  "dd892b6e46ceee94235bb4a847ddb3b5d78188772a621c3048e68be1e78988d8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3af3408be412bfedbb6a423713f2faad17a86dcd70c97a2e402c0eaf1a6bb911.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadifl1.mul",
+                      "size":  43724,
+                      "sha256":  "c464a2a346957829a6fa8a0f8a51f4b568d7781a78f91f9c261f2de2dd88bced",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c80cad4b6b31ace9331e9f07f9b054990836c008b42aa93cefd56ba7d6f2ca38.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stadifl2.mul",
+                      "size":  1072,
+                      "sha256":  "8d291d6108ba80fd07e9c717d7c65cb9874bad04e7608a5a6b4db6cf6ae320a9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d26a0e467cef1e2a79083ee8251d322c05f2d446f3072a701505408812ab3602.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx0.mul",
+                      "size":  5505024,
+                      "sha256":  "209319aeff26e01c7ea7ec86b8f01e3d598e4d82411431c43cb6e9b6ccc69de7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2fdb3d9916375ad6837eddb4b07680bc9e7118bb59d693b8e35b46b8e38b4958.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx0x.mul",
+                      "size":  5505024,
+                      "sha256":  "f324b0862203e1099764c012dc4589649d3c7b12349bde4560ab089963a00438",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cbbf5b33df38372b7825b6bb72492672f488fd53613836872055f7e92c80aa3e.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx1.mul",
+                      "size":  5505024,
+                      "sha256":  "d7ae4bfc790b7c14d4a7e30e9b97e4b6a22f2e027f79e00cc6af317a8b7d10d8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7ba6efec8a69c32b04697ae10ec463ba9dd6211c27525d83de32b05fe6a442f5.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx1x.mul",
+                      "size":  5505024,
+                      "sha256":  "36443b0fddfe002895a05b89c20961b6c96f78f03a6d6de892a1f9b52c15c0a4",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-10a44dfd6e259fee729d2e32e18194f4c09e44a9bd0708127a0b151f0970f172.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx2.mul",
+                      "size":  691200,
+                      "sha256":  "7965f58fdbe393227f1adefd96f7c401bc0520e4fca8fabe98b12f02c2ccba76",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d1ca49947632bbb6739ce13e183d23ac7236c92d45a4fb3ead8fea65fda5792f.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx2x.mul",
+                      "size":  691200,
+                      "sha256":  "7965f58fdbe393227f1adefd96f7c401bc0520e4fca8fabe98b12f02c2ccba76",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-4a12d5dff47b00337d3efb7a9ac6c49a5d8ea18c952666766948bd55a79560f0.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx3.mul",
+                      "size":  983040,
+                      "sha256":  "de067cf462c2aa831f72e332eb808c52e11c1faa68861ca5d540179b4c1683ad",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-33d768fbf15ad7da5d4eb3daeb7a407890a0f56ffd575c2171a64c982b5963d0.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx4.mul",
+                      "size":  393132,
+                      "sha256":  "1521f3e40fccd78c530a090136fa85fc2b436c9bb19a135fe7357c9f19b46282",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a6533d41f6817f197ec16d162d82ed6834336761bd13d7261cd38ac35cf8e5e1.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx5.mul",
+                      "size":  983040,
+                      "sha256":  "d6735911b2a9e763dcd8d91ddb040d48fb4a2e6b7fdae12f4271011e58c56cbe",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-7a0688801f7c755d38122e77e5fedac78080ce56f536bed4a8846b76aa6cf529.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "staidx5x.mul",
+                      "size":  983040,
+                      "sha256":  "d6735911b2a9e763dcd8d91ddb040d48fb4a2e6b7fdae12f4271011e58c56cbe",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9f1f1e8a20d846c670fd81327a7d7ce23ba925bb2f3a692dd6c4f73923c92086.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stairs.txt",
+                      "size":  1762,
+                      "sha256":  "7fdd445000433b3e33cbca370a9cb955174b0444aa54195a7a58f722e1aef2dd",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-17b9e9d89dca9c9c8e0efaef6bfb07f7a661eba2603237b7b188e410aee04481.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics0.mul",
+                      "size":  20386415,
+                      "sha256":  "aac798ae8786d97eb893d5338e27113f3ace606221c4a7f80c24e57bd4a19976",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d3cc425e6d4a211f926b938e6cd133ec8274eb0322ce3e95bec15ced9793579a.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics0x.mul",
+                      "size":  20298418,
+                      "sha256":  "a6ea999672c931fdc48b0fa506ad56f7d1a7eeeb96b6fb3a4cdfd0ea96065fe5",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-20fbea099a9ef9f4b1c7a7a3ca8d1b6a0463cd424973f6be6afad68160312c03.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics1.mul",
+                      "size":  20393786,
+                      "sha256":  "2109d96b4d668a3df58564eb156e0020ddc0ba94f8aad2836c56d9511218e14b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-bcada843ec0e8996c1e1dabb8454d6a51ab8e511fd138056566cd413669a78c6.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics1x.mul",
+                      "size":  20490050,
+                      "sha256":  "954f691d884319723f9da9461119dbef629652b94e92c1e12c94145a0924ed90",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6eb40f09c763723840fe8d6fe6498dee33e286a2eb7543577c7dc3347b35d382.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics2.mul",
+                      "size":  2443637,
+                      "sha256":  "e9fbbe216ddc4eec9fad2f886f39654bec84806886cf3abcaeca45df300c4c73",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-61600f6fa052887b8b2dd1c9ad3a5a14b2df9368cbb4364caa0933ce40781fef.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics2x.mul",
+                      "size":  2443637,
+                      "sha256":  "e9fbbe216ddc4eec9fad2f886f39654bec84806886cf3abcaeca45df300c4c73",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-12deac147e0eb488e2ce99508eb7814ab30a7a73b87996b4e29db021ad06c5d3.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics3.mul",
+                      "size":  2321235,
+                      "sha256":  "c003ddff11a459c1c76c68615c350dd5c7a3e5a7f6112fb697de5e04d4239181",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-48bc50fca22404fd2da76cbc9601dffb450eeff416f2461532efec74326d1204.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics4.mul",
+                      "size":  1194053,
+                      "sha256":  "e09b2d0c057910d3f4c7c86e0d0f1e0be16af4cd29c14b5d975bedefd67a15b7",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1936dca5444622f05862d6510c625cf1cddb8500a6b0c31e63a1e064922c28c3.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics5.mul",
+                      "size":  3452127,
+                      "sha256":  "1aa4d692ffce66d628b39e5b30bfff51d112261f82057c794408337eb84baae9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a614e6d954fb8490d9ce832d96b2e3f58c71b648d6a4a041fd4dbc9bdcf13a15.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "statics5x.mul",
+                      "size":  3452127,
+                      "sha256":  "1aa4d692ffce66d628b39e5b30bfff51d112261f82057c794408337eb84baae9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-fe933e1cbdbdfb1a7077da5f5e18913b168bdc2a12b8c9f5448dfb3bb3f98440.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "stitchin.def",
+                      "size":  235233,
+                      "sha256":  "dc1f4ff4f44e07de33952197b9c71f5cdbf7983408df8d75f86c10e89f8d8714",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2b9263c9ee554e28c8daca4edd6c6615e65e0f88e604a835efe926f2d7a32ef1.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "string_dictionary.uop",
+                      "size":  425427,
+                      "sha256":  "398fc0e0fe1c910f7f04b9ad22066ff95da69d2e89afd47b12997510847af8cc",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a5ff7b503591623385b41314cc47c409918cc315063725216220592e19bdd3a3.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "suppinfo.txt",
+                      "size":  76925,
+                      "sha256":  "d5c2e2fb46868c568312b9730d5c109bc1ca59ec039cae7c80d14eddbcaadbc8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e9f7e20f0d5ebf34cd37d7e2f4b16daf0c6543293172327d0ba6e1b57d1e8cfe.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "teleprts.txt",
+                      "size":  258,
+                      "sha256":  "3a2b84d14171042378d8196d5a795a78fcf21bef8f18d8ae688a4dc4e2752d8f",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2f78a6bb301c4d3226c68429069bee880562c24a302121871a8811aad0c92f49.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "texidx.mul",
+                      "size":  196608,
+                      "sha256":  "491c96a4abc5554f467b1a71b652a8dba13600267e75c6988c8c419072b14458",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-cdff7566a15fce3ddd6fd8ddd7b05dab8f143244e72ba98a16f6e2305a518313.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "texmaps.mul",
+                      "size":  47357952,
+                      "sha256":  "52a16409537dfef1b1feb0582eece8581d33a1c185b1bbf1976a2aadb177a528",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-3a206b68bb27318b9e9afa65dc806d53794356ff4574ce2870c28503510d99cb.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "TexTerr.def",
+                      "size":  5112,
+                      "sha256":  "6e5440326e5c813028b1c78e87631cc042ab0661ff180cbf89f565d314fd7825",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b36dc67c12574120fe2b49a5dd8fc7031d55e0fb3f19a0b1df2de3627f5ca77c.def",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tile1024.txt",
+                      "size":  11902,
+                      "sha256":  "e11812f888d5cb65e8975df34d321efa3557b5fa7182a148660965efbc0af5d1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e26bb931053c523c47f5fa4cdfbfc4db4fabc65db5365ae3af1e336fe6d1c0ff.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tile256.txt",
+                      "size":  14219,
+                      "sha256":  "c21b438c36467d29ed28d2426d0e68f220406dfee10680eccfe45fb09d65409f",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b20df70eb5be644988bc65eab683a830066d0a59eb3c8aadff7dc2aa0ddc0c9e.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "tileart.uop",
+                      "size":  6133768,
+                      "sha256":  "ca1c93d6f4abcfddfee2e6f7d53658a59ba98aa21c303888d8698d475caebdb0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0454a11955b07c35fa6f62937a83ffc6f34ac06df5eaeff0287450f9b075454f.uop",
+                      "required":  true
+                  },
+                  {
+                      "path":  "tiledata.mul",
+                      "size":  3188736,
+                      "sha256":  "f44860782f4818cbff36a9372a3f16e5747886e0064c72a4aec922dfe1994e37",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2c7d9cd5a3ec4bbd2e54aa901ba657814e26e356f9a1c181b127a49526333c5b.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tilehelp.cht",
+                      "size":  19988,
+                      "sha256":  "62af5dc90a11d1dcae725395083adc3135035647903db880739634bc98b4db6f",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b4423577ef0a6c9646f631c7d4f3759783c38bb8af9b8d494ba4d8ad3550e29e.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tilehelp.deu",
+                      "size":  34832,
+                      "sha256":  "fdc0e0e0e7c41ae927a90c43dbad3cf64466f8e009b4a7d150ef495daec86d1a",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-73c80f2411b13222ea3aa66a1bf7382185fa94bd3f4a35888cfa402797ddae26.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tilehelp.enu",
+                      "size":  27086,
+                      "sha256":  "d4de5b6804bca37d49c23da66303669396f7431cab4961245f0339f946a027f0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9d658eaa6bc29c6326311eea36420a0f3c1bcff91e7352209e1a02f3489f1245.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tilehelp.esp",
+                      "size":  28058,
+                      "sha256":  "1c7fd41c4c31e217ffc65583889a76bd4faa8a1b6da405c2f7cd18820cd2da67",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-ab9480bd73210a2e0f928d6be72004c6e2d91831d5786cf5ac6734e9dd2dbfa7.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tilehelp.fra",
+                      "size":  29038,
+                      "sha256":  "dc7261d73b7c772123043672e528541ccb01156246bfd71ae472689a18a332f9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d8ebf339c694967219417b64a2c7efe307f296adb0e52e6c730724104b757af8.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tilehelp.jpn",
+                      "size":  21742,
+                      "sha256":  "8715a7b832ee4cf7b58f0fe93540129ebad5191bbb4f4a3ed46f8ca066259127",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-79f96e4476c399c0e709f4423fc4f23d16e73618d78c21638537c9f875f66cee.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tilehelp.kor",
+                      "size":  26024,
+                      "sha256":  "cabb84bcd35d30e62c68ab8e33f9197fe9c494815c7e93ab926b2f5e46a3ec9e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0f72c7dfae3fd4dacbb365c25b384d7af9d9a7516f4d20fe1a82995573250030.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tooltips.cht",
+                      "size":  1518,
+                      "sha256":  "0d9f5fab6b49ff66b7d97bd6c2f7b11fdc3dc241a6de32f796a39751862a750c",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1a514474041c3c40502df58b49274813e4f53eff32b0a9690f73270ea9a1cf83.cht",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tooltips.deu",
+                      "size":  1762,
+                      "sha256":  "2463103d8e8a34c32dd263786a07e6d314ab86597a0f91861becc2e2f9296391",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-04126ba7baaafd76a4a930465a39053f4b108bfc863fa4ebf7ae177abe4a8fcf.deu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tooltips.enu",
+                      "size":  1448,
+                      "sha256":  "ea41e845a57cac83c85e619ba96206f8e31d4f1f867012d2c3c3c676b1de40a0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1b4c81e202a6b3b83268192f2a44cacbc8b9a12d4a10996909c27624de1befe2.enu",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tooltips.esp",
+                      "size":  1690,
+                      "sha256":  "60bc3a59a8d570bc67c309dcee86063adf5cd9642a6395941ffc325652d11cc2",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-1b4db49c1acfd352a30f4145bc208c4e700cc7544c3460ec217a341abc132e4e.esp",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tooltips.fra",
+                      "size":  1794,
+                      "sha256":  "5c6e56f22096e2890bc5f7591291b28c7c3b0b6126c074a6a68dba73e5dea02e",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b72aefb188244bed9f92f983bc597528762dd706e5fe0c8241b236e14d3f185d.fra",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tooltips.jpn",
+                      "size":  1240,
+                      "sha256":  "81ea9f5776688e553de1aa69a6c53f54418dcf9e880adaac5d60b2ee9c8a164d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c77192c39ebf4f6230ec1debf9074c8b7e8e3074f0a20de3d849ed82c0426da4.jpn",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Tooltips.kor",
+                      "size":  2152,
+                      "sha256":  "e1e2b7cd7a69ff0dbf6b2bee31a7dc70996060cfe92883d91f8830d770e51860",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-5934ba46b71150efde9ab80bb9ab92221380848c2c35f2ffbe56b5d96d7ffe2b.kor",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont.mul",
+                      "size":  1435288,
+                      "sha256":  "486b3dfc2a72f1c12f34c2c4329f6921606678787d5ff0ac0e6bed9be9827d21",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f1968f58c96f3fb703c5d257cb379e59f9d34604c86ca6eb233571dbdcecfeba.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont1.mul",
+                      "size":  1433134,
+                      "sha256":  "b518c416abeb372d5c4831810004728ca2722e3683ebab98665a6aa0ada51149",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2795a641bae42e8709819fc5923cc2d08fb6a535928f770212278bffecc3a713.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont10.mul",
+                      "size":  2748376,
+                      "sha256":  "610537075831379b62be290224845aa2bab69d5af6081cdf9b77ddb60a5ac8f0",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-073e12c85813922cc3127b025a1aea4e179e112b67511d68ca16b0eea55599fb.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont11.mul",
+                      "size":  5036697,
+                      "sha256":  "20d889dc221cceb63070bb0d094e03ae9983167e13cf72ce7edce7968ccaf374",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9945397d80aa91c495ff00155e45c1489dc27aa2c01c7c580d292e0086485270.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont12.mul",
+                      "size":  8109326,
+                      "sha256":  "c79f65530d2564d1513de887563e51d9035373a5fe8d635970bba9e9a959e1a8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-d4aa23ae76e48e7b4ce742c73eab140d92e9bdcacb23985be4b849987e83129f.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont2.mul",
+                      "size":  1432845,
+                      "sha256":  "8ba967aa18fa62550e419d8b8ccf5430e91bba27129c08308c505586ef41e652",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-9eaab0f32baaee2f432ee037f559d3201ec390af26ca1df12f7163225bdab1c2.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont3.mul",
+                      "size":  2659080,
+                      "sha256":  "1b12536569a1da54d88541f22101bbb75b919cd0b048babc9c9d16e18d96ba97",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-61b60652061dd936b3fe0016e863cbc9f28e0ba49617918f3706e3e48492e387.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont4.mul",
+                      "size":  4085838,
+                      "sha256":  "be8aab47dedf2c07a7a771326c79b23c36431bc658eb60a135d36305838abce1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6da26b7250e7b7ed1c7c74537df439c05f537c7019b76912ca4eed63d544eddd.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont5.mul",
+                      "size":  2312876,
+                      "sha256":  "c3ac51c51a3c65cfe3ccb3a71e79f1f1786f9031b3135f9574615b29ec70a6a1",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-a02022b83ba98268cc01b01566e1ab312b9791f1b83ff24c1a96e76c0774b91f.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont6.mul",
+                      "size":  3466767,
+                      "sha256":  "34a51bcd21d04eb112591427e17ae6705100378c9a3725da301c608b4ca1282d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6f9d835810d450ebd6c81d73f8fce587956477c79d811f234a7186b1f0193bf9.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont7.mul",
+                      "size":  2356698,
+                      "sha256":  "f0eda87d7c9bcc0223472377b277365930deae4e951cecf48445fcc4e06957c8",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-63199e079ca524499ced33992ab0871ccc34a8ebfaf2be957666b7a96c72c87a.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont8.mul",
+                      "size":  2749821,
+                      "sha256":  "cf55ed986fdba758ca9423121c427f37d14a2a04dfd11f442b6bea922684255d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-0166dd2e0d92d46bbce1e9928a4de35868383d9a462c2d3118fad3c05b4de330.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "unifont9.mul",
+                      "size":  5039687,
+                      "sha256":  "edde46f585be9aff5702582653a50c55eee0e864d905c9b4990c03d0e2643c21",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-6b76426ccee703ffa81ee37f5dedd63cc808f91484ce9dda48b8a2883072438e.mul",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Uo.cfg",
+                      "size":  675,
+                      "sha256":  "3b7d95481f664e40e8daacd23ba8d1e479f38fe31a83a516cd82487b03175e67",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-586b1bcf62ef99b35838ba85fb4238ed113b71aeb99f9a65bf7cac7779a4c71f.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Uobscene.lst",
+                      "size":  1048,
+                      "sha256":  "82e067e387d8d265edb2fa41cf1a1c91d1ed120ca715bf6fe5200d56a4968ce9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-b9d6ad3dd28f2a50c0b868000e28ac5b9533f2b98bf6167d4dc18b72afd79247.lst",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Uomax.cfg",
+                      "size":  528,
+                      "sha256":  "6199efff819de0d4c090c7b3fa8de06a3649ccad0bd93fe35283a96f7b182461",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e6069b22bed129094075cb6dbb252895fbd0523a754634fb2692236dcc151c5d.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "UO-patch.cfg",
+                      "size":  780,
+                      "sha256":  "936d7c98fad0ea290a74fb9dcdc11b506491af27d353ad21f358c539ed58f69d",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-f70cb604d479c617c5468e90ff13b67f09a844fc18513f60bbdf88869ec41307.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Uoreg.cfg",
+                      "size":  545,
+                      "sha256":  "cc6a35de0d79bdfaace36cc8b721c374c466af00cb52163fbe36a5a9cf5350f9",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-384e58d1bd4b8e77289431ff5faff6102ee71d53ce377b6b4df55cc0c9e41ff1.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Uoupg.cfg",
+                      "size":  331,
+                      "sha256":  "811e4009b5a2158cb94db126fb717a7894f6907d7c26a91a6dd55c2719009e39",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-e03db613d44870af794fbddfd464db5d82edeb1cdb160b12524a32866f271158.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "vercfg.cfg",
+                      "size":  101,
+                      "sha256":  "80f523d48b266af3ec423914fd41f543345fb0d4786eee59dc2bcfd56d08ca03",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-c96bf5a5e57af0abe096254e420e4319a531afd04847567a5d9359f09d70fc06.cfg",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Version.dat",
+                      "size":  4,
+                      "sha256":  "20833032bd75eeab4f3227d41e580f40113fe548da70f117edd9beae52e61f12",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-2e359e4ea224e2f2b6f7bb2b7447901d9bdfbd07f7c586121f4953b76addd160.dat",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Version.txt",
+                      "size":  9,
+                      "sha256":  "7745124819e6aa6c3ac9187de19cf859b5df50988af6c6dbe9a4f5a4a2ec3c40",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-97a08f11d52bb61c11fc6e159245145df32347dd439b9c6e6d94a863f3b1df4b.txt",
+                      "required":  true
+                  },
+                  {
+                      "path":  "walls.txt",
+                      "size":  16985,
+                      "sha256":  "697313fa7f7fd23bfe722fb66ab1c85588df4ccabaa956c1cbf0199a60060d2b",
+                      "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/uo-data-7.0.113.0/uo-86a7d37047aa9e1fb505841dedb9db8bf61014ced80c9ccc2d578b6aa85b2ea0.txt",
+                      "required":  true
+                  }
+              ]
+}

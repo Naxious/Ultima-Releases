@@ -3,4 +3,6 @@ channels/**/release.json -text
 channels/**/release.json.sig -text
 channels/**/launcher.json -text
 channels/**/launcher.json.sig -text
+channels/**/uo-data.json -text
+channels/**/uo-data.json.sig -text
 releases/** -text
