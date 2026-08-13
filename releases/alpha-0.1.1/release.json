@@ -2,7 +2,7 @@
     "schemaVersion":  1,
     "channel":  "staging",
     "releaseId":  "alpha-0.1.1",
-    "publishedAt":  "2026-08-12T23:55:51.1901450+00:00",
+    "publishedAt":  "2026-08-12T23:59:59.0423275+00:00",
     "client":  {
                    "executable":  "ClassicUO.exe",
                    "host":  "135.148.43.143",
@@ -17,126 +17,126 @@
                       "path":  "ClassicUO.exe",
                       "size":  201216,
                       "sha256":  "5026f7129584767c117772f98ca95f5859ebd9e94bb1257c58aab36e36ef91a2",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/ClassicUO.exe",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/ClassicUO.exe",
                       "required":  true
                   },
                   {
                       "path":  "ClassicUO.exe.config",
                       "size":  553,
                       "sha256":  "9e33249d43563df004ea6a52562bb406f446e4bc2366379bcd7cb785bdf4af77",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/ClassicUO.exe.config",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/ClassicUO.exe.config",
                       "required":  true
                   },
                   {
                       "path":  "cuo.dll",
                       "size":  14834176,
                       "sha256":  "9a1ea842b9460374a311704be0d68d92b3289e1016604309db43a49e27c4a9d3",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/cuo.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/cuo.dll",
                       "required":  true
                   },
                   {
                       "path":  "cuoapi.dll",
                       "size":  18432,
                       "sha256":  "fd61b0f5fa22082d87ef37726d75c72a864a62aedd47061b1eac9c02c77e3b00",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/cuoapi.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/cuoapi.dll",
                       "required":  true
                   },
                   {
                       "path":  "FAudio.dll",
                       "size":  340358,
                       "sha256":  "6712e5affbd1ab0c4f819f0711e70c4a5b7ddbaee82b5c051b8a773c20261061",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/FAudio.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/FAudio.dll",
                       "required":  true
                   },
                   {
                       "path":  "FNA.dll.config",
                       "size":  858,
                       "sha256":  "f4674782072a44aa0cfd9551e2d8e5b4adfae186373a5d66b67a6dab9a2d34e4",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/FNA.dll.config",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/FNA.dll.config",
                       "required":  true
                   },
                   {
                       "path":  "FNA3D.dll",
                       "size":  759349,
                       "sha256":  "cc4fce4770c36b6f5b4897d883a87b7d30e61734726aa837527f07dc23cd5491",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/FNA3D.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/FNA3D.dll",
                       "required":  true
                   },
                   {
                       "path":  "libtheorafile.dll",
                       "size":  1242040,
                       "sha256":  "037001becd22f98d2897a3fc388f92ca9a80b56f9b41ba4507f4452c5f1cdf87",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/libtheorafile.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/libtheorafile.dll",
                       "required":  true
                   },
                   {
                       "path":  "LICENSE.ClassicUO.md",
                       "size":  1343,
                       "sha256":  "e75143fa0059d2c6cd19363a38eb46b2d0ff158f9d21623ff9fe1e914d4dab46",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/LICENSE.ClassicUO.md",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/LICENSE.ClassicUO.md",
                       "required":  true
                   },
                   {
                       "path":  "licenses/FNA/LICENSE",
                       "size":  2773,
                       "sha256":  "d3e496042467ae7a3e9c273b36b865c96df062761d9b24fab79a5baa7f5f3b22",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/licenses/FNA/LICENSE",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/licenses/FNA/LICENSE",
                       "required":  true
                   },
                   {
                       "path":  "licenses/FNA/lzxdecoder.LICENSE",
                       "size":  1140,
                       "sha256":  "58aa5522abca8e886e3592c43cefb40ee65a2d62fdc283c2ab3a30a6c3ba20ba",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/licenses/FNA/lzxdecoder.LICENSE",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/licenses/FNA/lzxdecoder.LICENSE",
                       "required":  true
                   },
                   {
                       "path":  "licenses/FNA/monoxna.LICENSE",
                       "size":  1113,
                       "sha256":  "8ff43b0f0034da2ca34e755cc93e618f9afc432143481cd348c3cb3d4a823fe9",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/licenses/FNA/monoxna.LICENSE",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/licenses/FNA/monoxna.LICENSE",
                       "required":  true
                   },
                   {
                       "path":  "SDL3.dll",
                       "size":  4667392,
                       "sha256":  "eb46fbc3ceaf11a06ea4b9ea63f1783fbe8616018d70feb1711c68e1a6ab2e2e",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/SDL3.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/SDL3.dll",
                       "required":  true
                   },
                   {
                       "path":  "System.Buffers.dll",
                       "size":  20856,
                       "sha256":  "accccfbe45d9f08ffeed9916e37b33e98c65be012cfff6e7fa7b67210ce1fefb",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/System.Buffers.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/System.Buffers.dll",
                       "required":  true
                   },
                   {
                       "path":  "System.Memory.dll",
                       "size":  142240,
                       "sha256":  "bf3fb84664f4097f1a8a9bc71a51dcf8cf1a905d4080a4d290da1730866e856f",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/System.Memory.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/System.Memory.dll",
                       "required":  true
                   },
                   {
                       "path":  "System.Numerics.Vectors.dll",
                       "size":  115856,
                       "sha256":  "1d3ef8698281e7cf7371d1554afef5872b39f96c26da772210a33da041ba1183",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/System.Numerics.Vectors.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/System.Numerics.Vectors.dll",
                       "required":  true
                   },
                   {
                       "path":  "System.Runtime.CompilerServices.Unsafe.dll",
                       "size":  18024,
                       "sha256":  "37768488e8ef45729bc7d9a2677633c6450042975bb96516e186da6cb9cd0dcf",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/System.Runtime.CompilerServices.Unsafe.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/System.Runtime.CompilerServices.Unsafe.dll",
                       "required":  true
                   },
                   {
                       "path":  "zlib.dll",
                       "size":  113152,
                       "sha256":  "fcf9f36b66fd053e4bfe4c599d5bd37bc66d6891a7af8616079786b942f316f3",
-                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/main/releases/alpha-0.1.1/zlib.dll",
+                      "downloadUri":  "https://raw.githubusercontent.com/Naxious/Ultima-Releases/release-alpha-0.1.1/releases/alpha-0.1.1/zlib.dll",
                       "required":  true
                   }
               ]
