@@ -9,4 +9,4 @@ This public repository hosts distributable Ultima launcher updates and Windows i
 
 The update manifest is signed. Do not edit a published manifest or release payload in place; publish a new release ID instead.
 
-Electronic Arts/Broadsword Ultima Online game data is not included. Players select an existing legal Ultima Online installation when first launching the game.
+The UONax installer includes authorized Ultima Online Classic game data, and the signed UO-data catalog allows the launcher to verify and repair that managed installation automatically. The Enhanced Client is not included.
