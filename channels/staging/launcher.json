@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "channel": "staging",
-  "version": "0.9.0",
-  "publishedAt": "2026-08-14T14:52:34.5040252+00:00",
+  "version": "0.10.0",
+  "publishedAt": "2026-08-14T15:16:48.8360102+00:00",
   "launcher": {
-    "downloadUri": "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.8.4/Ultima.exe",
-    "size": 142363551,
-    "sha256": "a2692064a2a0a889f42c15e721726e748309579a2745a8bb4f265ee39cb0eb40"
+    "downloadUri": "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.8.6/Ultima.exe",
+    "size": 142372262,
+    "sha256": "dd47583c39db8c1ed8379a674b34d958fb5e820c9e336e29c52278d0e59d1f96"
   },
   "bootstrapper": {
-    "downloadUri": "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.8.4/Ultima.Bootstrap.exe",
+    "downloadUri": "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.8.6/Ultima.Bootstrap.exe",
     "size": 1784320,
-    "sha256": "aca31a2c16b258bb77bd6d0d23adb8728d3f4b7aae03d08be11893652e257edd"
+    "sha256": "d5c200ca7ac6fcecfc721b488a852f844c4bfed137b8a2b82328017f7bcb21fa"
   }
 }
