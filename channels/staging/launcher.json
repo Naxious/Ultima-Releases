@@ -1,16 +1,16 @@
-﻿{
-    "schemaVersion":  1,
-    "channel":  "staging",
-    "version":  "0.5.0",
-    "publishedAt":  "2026-08-13T05:11:25.6783913+00:00",
-    "launcher":  {
-                     "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.5.0/Ultima.exe",
-                     "size":  142357407,
-                     "sha256":  "690d655060b2363d8d33b6c0b8d38e2bacb89714a57be4d6fc27feaf8e8d5fdf"
-                 },
-    "bootstrapper":  {
-                         "downloadUri":  "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.5.0/Ultima.Bootstrap.exe",
-                         "size":  1784320,
-                         "sha256":  "07f2a65d467a6b730bf719a44d28cf0a3ccb1ddae4f187c5f0497c31ddd9ab7a"
-                     }
+{
+  "schemaVersion": 1,
+  "channel": "staging",
+  "version": "0.6.0",
+  "publishedAt": "2026-08-14T13:59:54.4227318+00:00",
+  "launcher": {
+    "downloadUri": "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.8.0/Ultima.exe",
+    "size": 142359455,
+    "sha256": "a841e528656e9c9cec0404eaf74e96445e96485fe5e8b04ba601345be476a59a"
+  },
+  "bootstrapper": {
+    "downloadUri": "https://github.com/Naxious/Ultima-Releases/releases/download/alpha-0.8.0/Ultima.Bootstrap.exe",
+    "size": 1784320,
+    "sha256": "19254ba3b59793e4c64f9b3a1880f90f5a9ef2a9981c68b590cc0a83a1422ca3"
+  }
 }
